@@ -1,0 +1,2001 @@
+FirstName,LastName,BirthDate,Gender,YearlyIncome,City,StateProvinceName,EnglishCountryRegionName,TotalProductCost
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,1912.1544
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,1265.6195
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,8.2205
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,1481.9379
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,10.8423
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,1.8663
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,13.0863
+Jon,Yang,1966-04-08,M,90000,Rockhampton,Queensland,Australia,41.5723
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,1898.0944
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,1265.6195
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,8.2205
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,1.8663
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,3.7363
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,41.5723
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,6.9223
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,343.6496
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,1.8663
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,3.3623
+Eugene,Huang,1965-05-14,M,60000,Seaford,Victoria,Australia,13.0863
+Ruben,Torres,1965-08-12,M,60000,Hobart,Tasmania,Australia,1912.1544
+Ruben,Torres,1965-08-12,M,60000,Hobart,Tasmania,Australia,1251.9813
+Ruben,Torres,1965-08-12,M,60000,Hobart,Tasmania,Australia,1481.9379
+Ruben,Torres,1965-08-12,M,60000,Hobart,Tasmania,Australia,13.0863
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,1912.1544
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,1251.9813
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,3.7363
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,1.8663
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,6.9223
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,1481.9379
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,10.8423
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,1.8663
+Christy,Zhu,1968-02-15,F,70000,"North Ryde","New South Wales",Australia,0.8565
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,1912.1544
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,1265.6195
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,8.2205
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,13.0863
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,1481.9379
+Elizabeth,Johnson,1968-08-08,F,80000,Wollongong,"New South Wales",Australia,13.0863
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,1898.0944
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,1265.6195
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,13.09
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,1.8663
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,0.8565
+Julio,Ruiz,1965-08-05,M,70000,"East Brisbane",Queensland,Australia,1481.9379
+Janet,Alvarez,1965-12-06,F,70000,Matraville,"New South Wales",Australia,1912.1544
+Janet,Alvarez,1965-12-06,F,70000,Matraville,"New South Wales",Australia,1265.6195
+Janet,Alvarez,1965-12-06,F,70000,Matraville,"New South Wales",Australia,3.7363
+Janet,Alvarez,1965-12-06,F,70000,Matraville,"New South Wales",Australia,1.8663
+Janet,Alvarez,1965-12-06,F,70000,Matraville,"New South Wales",Australia,1481.9379
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,1912.1544
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,1251.9813
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,1.8663
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,13.09
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,8.2205
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,13.0863
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,1481.9379
+Marco,Mehta,1964-05-09,M,60000,Warrnambool,Victoria,Australia,13.0863
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,1898.0944
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,1251.9813
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,1.8663
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,3.7363
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,0.8565
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,1481.9379
+Rob,Verhoff,1964-07-07,F,60000,Bendigo,Victoria,Australia,13.0863
+Shannon,Carlson,1964-04-01,M,70000,"Hervey Bay",Queensland,Australia,1898.0944
+Shannon,Carlson,1964-04-01,M,70000,"Hervey Bay",Queensland,Australia,1251.9813
+Shannon,Carlson,1964-04-01,M,70000,"Hervey Bay",Queensland,Australia,0.8565
+Shannon,Carlson,1964-04-01,M,70000,"Hervey Bay",Queensland,Australia,1481.9379
+Shannon,Carlson,1964-04-01,M,70000,"Hervey Bay",Queensland,Australia,13.0863
+Jacquelyn,Suarez,1964-02-06,F,70000,"East Brisbane",Queensland,Australia,1912.1544
+Jacquelyn,Suarez,1964-02-06,F,70000,"East Brisbane",Queensland,Australia,1251.9813
+Jacquelyn,Suarez,1964-02-06,F,70000,"East Brisbane",Queensland,Australia,1481.9379
+Jacquelyn,Suarez,1964-02-06,F,70000,"East Brisbane",Queensland,Australia,6.9223
+Curtis,Lu,1963-11-04,M,60000,"East Brisbane",Queensland,Australia,1912.1544
+Curtis,Lu,1963-11-04,M,60000,"East Brisbane",Queensland,Australia,1251.9813
+Curtis,Lu,1963-11-04,M,60000,"East Brisbane",Queensland,Australia,1481.9379
+Curtis,Lu,1963-11-04,M,60000,"East Brisbane",Queensland,Australia,41.5723
+Lauren,Walker,1968-01-18,F,100000,Bremerton,Washington,"United States",13.09
+Lauren,Walker,1968-01-18,F,100000,Bremerton,Washington,"United States",1.8663
+Lauren,Walker,1968-01-18,F,100000,Bremerton,Washington,"United States",13.0863
+Lauren,Walker,1968-01-18,F,100000,Bremerton,Washington,"United States",1.4923
+Lauren,Walker,1968-01-18,F,100000,Bremerton,Washington,"United States",0.8565
+Ian,Jenkins,1968-08-06,M,100000,Lebanon,Oregon,"United States",1.4923
+Ian,Jenkins,1968-08-06,M,100000,Lebanon,Oregon,"United States",13.0863
+Ian,Jenkins,1968-08-06,M,100000,Lebanon,Oregon,"United States",13.09
+Ian,Jenkins,1968-08-06,M,100000,Lebanon,Oregon,"United States",1.8663
+Ian,Jenkins,1968-08-06,M,100000,Lebanon,Oregon,"United States",13.0863
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",1.4923
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",13.0863
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",13.09
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",1.8663
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",13.0863
+Sydney,Bennett,1968-05-09,F,100000,Redmond,Washington,"United States",9.1593
+Chloe,Young,1979-02-27,F,30000,Burbank,California,"United States",1265.6195
+Chloe,Young,1979-02-27,F,30000,Burbank,California,"United States",8.2205
+Chloe,Young,1979-02-27,F,30000,Burbank,California,"United States",59.466
+Wyatt,Hill,1979-04-28,M,30000,"Imperial Beach",California,"United States",1251.9813
+Wyatt,Hill,1979-04-28,M,30000,"Imperial Beach",California,"United States",13.09
+Wyatt,Hill,1979-04-28,M,30000,"Imperial Beach",California,"United States",0.8565
+Shannon,Wang,1944-06-26,F,20000,Sunbury,Victoria,Australia,1898.0944
+Shannon,Wang,1944-06-26,F,20000,Sunbury,Victoria,Australia,1251.9813
+Shannon,Wang,1944-06-26,F,20000,Sunbury,Victoria,Australia,8.2205
+Shannon,Wang,1944-06-26,F,20000,Sunbury,Victoria,Australia,461.4448
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,1912.1544
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,1265.6195
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,8.2205
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,461.4448
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,3.3623
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,1.8663
+Clarence,Rai,1944-10-09,M,30000,Bendigo,Victoria,Australia,13.0863
+Destiny,Wilson,1978-09-03,F,40000,Beaverton,Oregon,"United States",1251.9813
+Destiny,Wilson,1978-09-03,F,40000,Beaverton,Oregon,"United States",8.2205
+Destiny,Wilson,1978-09-03,F,40000,Beaverton,Oregon,"United States",20.5663
+Ethan,Zhang,1978-10-12,M,40000,Bellingham,Washington,"United States",1265.6195
+Ethan,Zhang,1978-10-12,M,40000,Bellingham,Washington,"United States",0.8565
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",13.09
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",1.8663
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",8.2205
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",41.5723
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",1.4923
+Seth,Edwards,1978-10-11,M,40000,Bellflower,California,"United States",0.8565
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",1.8663
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",13.09
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",0.8565
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",1.4923
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",0.8565
+Russell,Xie,1978-09-17,M,60000,Concord,California,"United States",2.9733
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,1898.0944
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,1265.6195
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,8.2205
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,23.749
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,461.4448
+Alejandro,Beck,1945-12-23,M,10000,Hawthorne,Queensland,Australia,41.5723
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,1912.1544
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,1265.6195
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,20.5663
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,9.1593
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,461.4448
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,10.8423
+Harold,Sai,1946-04-03,M,30000,Goulburn,"New South Wales",Australia,1.8663
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,1912.1544
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,1251.9813
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,20.5663
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,41.5723
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,6.9223
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,461.4448
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,1.8663
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,10.8423
+Jessie,Zhao,1946-12-07,M,30000,Warrnambool,Victoria,Australia,0.8565
+Jill,Jimenez,1946-04-11,F,30000,"St. Leonards","New South Wales",Australia,1898.0944
+Jill,Jimenez,1946-04-11,F,30000,"St. Leonards","New South Wales",Australia,1265.6195
+Jill,Jimenez,1946-04-11,F,30000,"St. Leonards","New South Wales",Australia,13.09
+Jill,Jimenez,1946-04-11,F,30000,"St. Leonards","New South Wales",Australia,0.8565
+Jill,Jimenez,1946-04-11,F,30000,"St. Leonards","New South Wales",Australia,461.4448
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,1912.1544
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,1265.6195
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,13.0863
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,41.5723
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,461.4448
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,3.3623
+Jimmy,Moreno,1946-12-21,M,30000,Bendigo,Victoria,Australia,1.8663
+Bethany,Yuan,1947-02-22,F,10000,Cloverdale,"South Australia",Australia,1912.1544
+Bethany,Yuan,1947-02-22,F,10000,Cloverdale,"South Australia",Australia,1265.6195
+Bethany,Yuan,1947-02-22,F,10000,Cloverdale,"South Australia",Australia,461.4448
+Bethany,Yuan,1947-02-22,F,10000,Cloverdale,"South Australia",Australia,6.9223
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,1912.1544
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,1265.6195
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,0.8565
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,461.4448
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,1.8663
+Theresa,Ramos,1947-08-22,F,20000,Matraville,"New South Wales",Australia,3.3623
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,1898.0944
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,1265.6195
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,13.09
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,1.8663
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,8.2205
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,3.7363
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,1.8663
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,0.8565
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,461.4448
+Denise,Stone,1947-06-11,F,20000,Melbourne,Victoria,Australia,6.9223
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,1898.0944
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,1265.6195
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,13.0863
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,461.4448
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,3.3623
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,6.9223
+Jaime,Nath,1947-09-23,M,20000,"Milsons Point","New South Wales",Australia,1.8663
+Ebony,Gonzalez,1947-06-19,F,20000,"North Sydney","New South Wales",Australia,1912.1544
+Ebony,Gonzalez,1947-06-19,F,20000,"North Sydney","New South Wales",Australia,1251.9813
+Ebony,Gonzalez,1947-06-19,F,20000,"North Sydney","New South Wales",Australia,461.4448
+Ebony,Gonzalez,1947-06-19,F,20000,"North Sydney","New South Wales",Australia,41.5723
+Wendy,Dominguez,1948-02-24,F,10000,Cranbourne,Victoria,Australia,1898.0944
+Wendy,Dominguez,1948-02-24,F,10000,Cranbourne,Victoria,Australia,1265.6195
+Wendy,Dominguez,1948-02-24,F,10000,Cranbourne,Victoria,Australia,461.4448
+Wendy,Dominguez,1948-02-24,F,10000,Cranbourne,Victoria,Australia,1.8663
+Wendy,Dominguez,1948-02-24,F,10000,Cranbourne,Victoria,Australia,3.3623
+Jennifer,Russell,1978-12-18,F,60000,"National City",California,"United States",1265.6195
+Jennifer,Russell,1978-12-18,F,60000,"National City",California,"United States",13.0863
+Diana,Hernandez,1948-03-23,F,10000,"Lavender Bay","New South Wales",Australia,1898.0944
+Diana,Hernandez,1948-03-23,F,10000,"Lavender Bay","New South Wales",Australia,1265.6195
+Diana,Hernandez,1948-03-23,F,10000,"Lavender Bay","New South Wales",Australia,461.4448
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,1912.1544
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,1265.6195
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,0.8565
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,44.88
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,6.9223
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,461.4448
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,10.8423
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,1.8663
+Marc,Martin,1948-12-17,M,30000,Wollongong,"New South Wales",Australia,6.9223
+Jesse,Murphy,1977-08-01,M,30000,Tacoma,Washington,"United States",1265.6195
+Jesse,Murphy,1977-08-01,M,30000,Tacoma,Washington,"United States",8.2205
+Jesse,Murphy,1977-08-01,M,30000,Tacoma,Washington,"United States",3.3623
+Amanda,Carter,1977-10-16,F,60000,Glendale,California,"United States",1251.9813
+Amanda,Carter,1977-10-16,F,60000,Glendale,California,"United States",8.2205
+Amanda,Carter,1977-10-16,F,60000,Glendale,California,"United States",23.749
+Megan,Sanchez,1977-06-13,F,70000,"Los Angeles",California,"United States",1265.6195
+Megan,Sanchez,1977-06-13,F,70000,"Los Angeles",California,"United States",461.4448
+Megan,Sanchez,1977-06-13,F,70000,"Los Angeles",California,"United States",38.4923
+Nathan,Simmons,1976-02-24,M,60000,Glendale,California,"United States",1.4923
+Nathan,Simmons,1976-02-24,M,60000,Glendale,California,"United States",6.9223
+Nathan,Simmons,1976-02-24,M,60000,Glendale,California,"United States",13.09
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,1898.0944
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,1251.9813
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,13.09
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,461.4448
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,3.3623
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,1.8663
+Adam,Flores,1949-05-24,M,20000,"Hervey Bay",Queensland,Australia,41.5723
+Leonard,Nara,1950-05-19,M,30000,Matraville,"New South Wales",Australia,1.8663
+Leonard,Nara,1950-05-19,M,30000,Matraville,"New South Wales",Australia,9.3463
+Leonard,Nara,1950-05-19,M,30000,Matraville,"New South Wales",Australia,13.0863
+Leonard,Nara,1950-05-19,M,30000,Matraville,"New South Wales",Australia,38.4923
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,1898.0944
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,461.4448
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,9.1593
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,13.0863
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,1265.6195
+Christine,Yuan,1950-03-22,F,30000,"Lavender Bay","New South Wales",Australia,44.88
+Jaclyn,Lu,1950-02-27,F,30000,Geelong,Victoria,Australia,1912.1544
+Jaclyn,Lu,1950-02-27,F,30000,Geelong,Victoria,Australia,461.4448
+Jaclyn,Lu,1950-02-27,F,30000,Geelong,Victoria,Australia,1265.6195
+Jaclyn,Lu,1950-02-27,F,30000,Geelong,Victoria,Australia,44.88
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,1898.0944
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,461.4448
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,2.9733
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,1251.9813
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,3.7363
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,1.8663
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,41.5723
+Jeremy,Powell,1950-11-22,M,30000,Sunbury,Victoria,Australia,6.9223
+Carol,Rai,1980-07-18,F,40000,"Chula Vista",California,"United States",1.8663
+Carol,Rai,1980-07-18,F,40000,"Chula Vista",California,"United States",13.09
+Carol,Rai,1980-07-18,F,40000,"Chula Vista",California,"United States",13.0863
+Carol,Rai,1980-07-18,F,40000,"Chula Vista",California,"United States",1.4923
+Carol,Rai,1980-07-18,F,40000,"Chula Vista",California,"United States",0.8565
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,1898.0944
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,419.7784
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,8.2205
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,23.749
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,461.4448
+Alan,Zheng,1951-09-07,M,30000,Hobart,Tasmania,Australia,13.0863
+Daniel,Johnson,1951-08-04,M,30000,Caloundra,Queensland,Australia,6.9223
+Daniel,Johnson,1951-08-04,M,30000,Caloundra,Queensland,Australia,38.4923
+Daniel,Johnson,1951-08-04,M,30000,Caloundra,Queensland,Australia,9.3463
+Daniel,Johnson,1951-08-04,M,30000,Caloundra,Queensland,Australia,1.8663
+Daniel,Johnson,1951-08-04,M,30000,Caloundra,Queensland,Australia,13.0863
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,1898.0944
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,1251.9813
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,1.8663
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,13.09
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,0.8565
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,1481.9379
+Heidi,Lopez,1951-08-07,F,40000,Matraville,"New South Wales",Australia,13.0863
+Ana,Price,1980-08-20,F,60000,"San Diego",California,"United States",1251.9813
+Ana,Price,1980-08-20,F,60000,"San Diego",California,"United States",13.0863
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,1912.1544
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,1251.9813
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,20.5663
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,41.5723
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,1481.9379
+Deanna,Munoz,1952-03-10,F,40000,Geelong,Victoria,Australia,13.0863
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,1898.0944
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,1265.6195
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,13.09
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,1.8663
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,13.0863
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,1481.9379
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,3.3623
+Gilbert,Raje,1952-03-05,M,40000,"East Brisbane",Queensland,Australia,1.8663
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,1898.0944
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,1265.6195
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,1.8663
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,3.7363
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,41.5723
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,9.1593
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,1481.9379
+Michele,Nath,1953-04-03,F,40000,Newcastle,"New South Wales",Australia,13.0863
+Carl,Andersen,1953-10-12,M,70000,"Lane Cove","New South Wales",Australia,1898.0944
+Carl,Andersen,1953-10-12,M,70000,"Lane Cove","New South Wales",Australia,1265.6195
+Carl,Andersen,1953-10-12,M,70000,"Lane Cove","New South Wales",Australia,1481.9379
+Carl,Andersen,1953-10-12,M,70000,"Lane Cove","New South Wales",Australia,3.3623
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,1912.1544
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,1265.6195
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,20.5663
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,1481.9379
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,13.0863
+Marc,Diaz,1954-04-27,M,80000,Findon,"South Australia",Australia,41.5723
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,3.3623
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,1.8663
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,6.9223
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,41.5723
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,1.8663
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,3.7363
+Ashlee,Andersen,1954-04-01,F,80000,Townsville,Queensland,Australia,9.3463
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,1912.1544
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,1265.6195
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,1481.9379
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,3.3623
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,1.8663
+Jon,Zhou,1954-03-17,M,80000,Warrnambool,Victoria,Australia,13.0863
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,1898.0944
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,1265.6195
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,3.7363
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,1.8663
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,13.0863
+Todd,Gao,1954-02-27,M,80000,"Gold Coast",Queensland,Australia,1481.9379
+Noah,Powell,1975-09-02,M,40000,Portland,Oregon,"United States",1251.9813
+Noah,Powell,1975-09-02,M,40000,Portland,Oregon,"United States",8.2205
+Noah,Powell,1975-09-02,M,40000,Portland,Oregon,"United States",13.0863
+Angela,Murphy,1975-04-07,F,40000,Redmond,Washington,"United States",1251.9813
+Angela,Murphy,1975-04-07,F,40000,Redmond,Washington,"United States",1.8663
+Angela,Murphy,1975-04-07,F,40000,Redmond,Washington,"United States",3.7363
+Angela,Murphy,1975-04-07,F,40000,Redmond,Washington,"United States",41.5723
+Angela,Murphy,1975-04-07,F,40000,Redmond,Washington,"United States",6.9223
+Chase,Reed,1975-12-07,M,40000,Downey,California,"United States",1251.9813
+Chase,Reed,1975-12-07,M,40000,Downey,California,"United States",3.7363
+Jessica,Henderson,1973-10-09,F,60000,"La Jolla",California,"United States",13.09
+Jessica,Henderson,1973-10-09,F,60000,"La Jolla",California,"United States",0.8565
+Jessica,Henderson,1973-10-09,F,60000,"La Jolla",California,"United States",59.466
+Jessica,Henderson,1973-10-09,F,60000,"La Jolla",California,"United States",1.4923
+Jessica,Henderson,1973-10-09,F,60000,"La Jolla",California,"United States",0.8565
+Grace,Butler,1973-11-27,F,70000,Lebanon,Oregon,"United States",13.09
+Grace,Butler,1973-11-27,F,70000,Lebanon,Oregon,"United States",1.8663
+Grace,Butler,1973-11-27,F,70000,Lebanon,Oregon,"United States",0.8565
+Grace,Butler,1973-11-27,F,70000,Lebanon,Oregon,"United States",1.4923
+Grace,Butler,1973-11-27,F,70000,Lebanon,Oregon,"United States",13.0863
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",1.4923
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",0.8565
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",1.8663
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",13.09
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",13.0863
+Caleb,Carter,1976-09-25,M,60000,"Port Orchard",Washington,"United States",9.1593
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,1.8663
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,3.3623
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,9.1593
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,1.8663
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,3.7363
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,1.8663
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,9.3463
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,8.2205
+Tiffany,Liang,1955-09-23,F,80000,Warrnambool,Victoria,Australia,2.9733
+Carolyn,Navarro,1955-09-21,F,80000,"Gold Coast",Queensland,Australia,1912.1544
+Carolyn,Navarro,1955-09-21,F,80000,"Gold Coast",Queensland,Australia,1265.6195
+Carolyn,Navarro,1955-09-21,F,80000,"Gold Coast",Queensland,Australia,1481.9379
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,1912.1544
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,1251.9813
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,1.8663
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,13.09
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,0.8565
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,2.9733
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,1481.9379
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,10.8423
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,1.8663
+Willie,Raji,1955-04-05,M,80000,Sunbury,Victoria,Australia,0.8565
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,9.3463
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,0.8565
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,3.7363
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,1.8663
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,1.8663
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,3.3623
+Linda,Serrano,1955-06-26,F,80000,Hawthorne,Queensland,Australia,41.5723
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,1912.1544
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,1265.6195
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,8.2205
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,41.5723
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,1481.9379
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,3.3623
+Casey,Luo,1955-02-06,F,80000,"St. Leonards","New South Wales",Australia,1.8663
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,3.7363
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,1.8663
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,13.0863
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,41.5723
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,9.3463
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,1.8663
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,13.0863
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,1.8663
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,3.3623
+Amy,Ye,1956-08-14,F,70000,Springwood,"New South Wales",Australia,6.9223
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,3.7363
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,1.8663
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,13.0863
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,9.3463
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,0.8565
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,2.9733
+Levi,Arun,1956-08-28,M,70000,Cloverdale,"South Australia",Australia,3.3623
+Felicia,Jimenez,1957-11-16,F,80000,Bendigo,Victoria,Australia,1898.0944
+Felicia,Jimenez,1957-11-16,F,80000,Bendigo,Victoria,Australia,1251.9813
+Felicia,Jimenez,1957-11-16,F,80000,Bendigo,Victoria,Australia,1481.9379
+Felicia,Jimenez,1957-11-16,F,80000,Bendigo,Victoria,Australia,1.8663
+Felicia,Jimenez,1957-11-16,F,80000,Bendigo,Victoria,Australia,3.3623
+Blake,Anderson,1957-07-13,M,80000,Wollongong,"New South Wales",Australia,1912.1544
+Blake,Anderson,1957-07-13,M,80000,Wollongong,"New South Wales",Australia,1265.6195
+Blake,Anderson,1957-07-13,M,80000,Wollongong,"New South Wales",Australia,20.5663
+Blake,Anderson,1957-07-13,M,80000,Wollongong,"New South Wales",Australia,1481.9379
+Leah,Ye,1957-09-19,F,80000,Melton,Victoria,Australia,1898.0944
+Leah,Ye,1957-09-19,F,80000,Melton,Victoria,Australia,1265.6195
+Leah,Ye,1957-09-19,F,80000,Melton,Victoria,Australia,20.5663
+Leah,Ye,1957-09-19,F,80000,Melton,Victoria,Australia,1481.9379
+Leah,Ye,1957-09-19,F,80000,Melton,Victoria,Australia,13.0863
+Donald,Gonzalez,1959-03-11,M,160000,Geelong,Victoria,Australia,3.7363
+Donald,Gonzalez,1959-03-11,M,160000,Geelong,Victoria,Australia,1.8663
+Donald,Gonzalez,1959-03-11,M,160000,Geelong,Victoria,Australia,3.3623
+Donald,Gonzalez,1959-03-11,M,160000,Geelong,Victoria,Australia,6.9223
+Donald,Gonzalez,1959-03-11,M,160000,Geelong,Victoria,Australia,9.3463
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,1898.0944
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,1265.6195
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,13.09
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,1.8663
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,1481.9379
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,13.0863
+Damien,Chander,1959-07-17,M,170000,Perth,"South Australia",Australia,38.4923
+Savannah,Baker,1966-07-24,F,120000,Concord,California,"United States",13.09
+Savannah,Baker,1966-07-24,F,120000,Concord,California,"United States",0.8565
+Savannah,Baker,1966-07-24,F,120000,Concord,California,"United States",1.4923
+Savannah,Baker,1966-07-24,F,120000,Concord,California,"United States",41.5723
+Savannah,Baker,1966-07-24,F,120000,Concord,California,"United States",6.9223
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",1251.9813
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",13.09
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",461.4448
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",3.3623
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",1.8663
+Angela,Butler,1966-08-04,F,130000,Fremont,California,"United States",9.1593
+Alyssa,Cox,1966-03-15,F,130000,"Lincoln Acres",California,"United States",1265.6195
+Alyssa,Cox,1966-03-15,F,130000,"Lincoln Acres",California,"United States",1.8663
+Alyssa,Cox,1966-03-15,F,130000,"Lincoln Acres",California,"United States",13.09
+Alyssa,Cox,1966-03-15,F,130000,"Lincoln Acres",California,"United States",13.0863
+Alyssa,Cox,1966-03-15,F,130000,"Lincoln Acres",California,"United States",461.4448
+Lucas,Phillips,1957-09-12,M,80000,Lebanon,Oregon,"United States",1265.6195
+Lucas,Phillips,1957-09-12,M,80000,Lebanon,Oregon,"United States",0.8565
+Lucas,Phillips,1957-09-12,M,80000,Lebanon,Oregon,"United States",461.4448
+Lucas,Phillips,1957-09-12,M,80000,Lebanon,Oregon,"United States",3.3623
+Lucas,Phillips,1957-09-12,M,80000,Lebanon,Oregon,"United States",1.8663
+Emily,Johnson,1957-07-19,F,60000,"Newport Beach",California,"United States",13.09
+Emily,Johnson,1957-07-19,F,60000,"Newport Beach",California,"United States",1.8663
+Emily,Johnson,1957-07-19,F,60000,"Newport Beach",California,"United States",13.0863
+Emily,Johnson,1957-07-19,F,60000,"Newport Beach",California,"United States",1.4923
+Emily,Johnson,1957-07-19,F,60000,"Newport Beach",California,"United States",38.4923
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",1.4923
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",38.4923
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",1.8663
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",13.09
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",13.0863
+Ryan,Brown,1957-12-23,M,70000,"Santa Monica",California,"United States",9.1593
+Tamara,Liang,1957-10-03,F,70000,"Chula Vista",California,"United States",1.4923
+Tamara,Liang,1957-10-03,F,70000,"Chula Vista",California,"United States",59.466
+Tamara,Liang,1957-10-03,F,70000,"Chula Vista",California,"United States",13.09
+Tamara,Liang,1957-10-03,F,70000,"Chula Vista",California,"United States",0.8565
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",1265.6195
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",8.2205
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",9.1593
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",461.4448
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",1.8663
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",3.3623
+Hunter,Davis,1957-11-25,M,80000,"San Diego",California,"United States",41.5723
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",1251.9813
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",8.2205
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",13.0863
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",461.4448
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",13.0863
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",38.4923
+Abigail,Price,1957-02-05,F,80000,"Long Beach",California,"United States",3.3623
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",2171.2942
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",1251.9813
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",20.5663
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",9.1593
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",461.4448
+Trevor,Bryant,1957-12-17,M,90000,"Los Angeles",California,"United States",6.9223
+Cheryl,Diaz,1967-05-06,F,90000,"East Brisbane",Queensland,Australia,1898.0944
+Cheryl,Diaz,1967-05-06,F,90000,"East Brisbane",Queensland,Australia,1265.6195
+Cheryl,Diaz,1967-05-06,F,90000,"East Brisbane",Queensland,Australia,8.2205
+Cheryl,Diaz,1967-05-06,F,90000,"East Brisbane",Queensland,Australia,1481.9379
+Cheryl,Diaz,1967-05-06,F,90000,"East Brisbane",Queensland,Australia,3.3623
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,1912.1544
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,1251.9813
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,8.2205
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,13.0863
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,3.3623
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,1481.9379
+Aimee,He,1967-09-10,F,100000,Wollongong,"New South Wales",Australia,13.0863
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,9.3463
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,1.8663
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,2.9733
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,44.88
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,3.7363
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,1.8663
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,41.5723
+Cedric,Ma,1962-04-01,M,70000,Cranbourne,Victoria,Australia,6.9223
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,1898.0944
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,1251.9813
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,3.7363
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,1.8663
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,41.5723
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,1481.9379
+Chad,Kumar,1962-09-01,M,70000,"Port Macquarie","New South Wales",Australia,13.0863
+Andrιs,Anand,1962-08-10,M,60000,"North Sydney","New South Wales",Australia,1898.0944
+Andrιs,Anand,1962-08-10,M,60000,"North Sydney","New South Wales",Australia,1251.9813
+Andrιs,Anand,1962-08-10,M,60000,"North Sydney","New South Wales",Australia,6.9223
+Andrιs,Anand,1962-08-10,M,60000,"North Sydney","New South Wales",Australia,1481.9379
+Edwin,Nara,1961-10-27,M,60000,Warrnambool,Victoria,Australia,1898.0944
+Edwin,Nara,1961-10-27,M,60000,Warrnambool,Victoria,Australia,1251.9813
+Edwin,Nara,1961-10-27,M,60000,Warrnambool,Victoria,Australia,3.7363
+Edwin,Nara,1961-10-27,M,60000,Warrnambool,Victoria,Australia,1481.9379
+Edwin,Nara,1961-10-27,M,60000,Warrnambool,Victoria,Australia,13.0863
+Mallory,Rubio,1961-05-01,F,60000,Rhodes,"New South Wales",Australia,9.3463
+Mallory,Rubio,1961-05-01,F,60000,Rhodes,"New South Wales",Australia,1.8663
+Mallory,Rubio,1961-05-01,F,60000,Rhodes,"New South Wales",Australia,41.5723
+Mallory,Rubio,1961-05-01,F,60000,Rhodes,"New South Wales",Australia,1.8663
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,1912.1544
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,1251.9813
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,3.7363
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,1.8663
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,41.5723
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,1481.9379
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,1.8663
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,3.3623
+Adam,Ross,1961-03-08,M,60000,"Port Macquarie","New South Wales",Australia,41.5723
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,1898.0944
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,1265.6195
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,9.1593
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,20.5663
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,1481.9379
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,3.3623
+Latasha,Navarro,1960-09-15,F,60000,Cloverdale,"South Australia",Australia,1.8663
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,1912.1544
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,1265.6195
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,44.88
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,1481.9379
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,3.3623
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,9.1593
+Abby,Sai,1965-05-08,F,70000,Cranbourne,Victoria,Australia,1.8663
+Julia,Nelson,1965-04-21,F,80000,Sydney,"New South Wales",Australia,2.9733
+Julia,Nelson,1965-04-21,F,80000,Sydney,"New South Wales",Australia,9.3463
+Julia,Nelson,1965-04-21,F,80000,Sydney,"New South Wales",Australia,3.7363
+Julia,Nelson,1965-04-21,F,80000,Sydney,"New South Wales",Australia,1.8663
+Julia,Nelson,1965-04-21,F,80000,Sydney,"New South Wales",Australia,20.5663
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,1898.0944
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,1251.9813
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,1.8663
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,3.7363
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,41.5723
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,9.1593
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,1481.9379
+Cassie,Chande,1964-10-17,F,70000,Darlinghurst,"New South Wales",Australia,13.0863
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,1912.1544
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,1251.9813
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,13.09
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,1.8663
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,1481.9379
+Edgar,Sara,1964-03-11,M,70000,"Gold Coast",Queensland,Australia,41.5723
+Candace,Fernandez,1964-12-28,F,70000,Matraville,"New South Wales",Australia,1912.1544
+Candace,Fernandez,1964-12-28,F,70000,Matraville,"New South Wales",Australia,1251.9813
+Candace,Fernandez,1964-12-28,F,70000,Matraville,"New South Wales",Australia,1481.9379
+Candace,Fernandez,1964-12-28,F,70000,Matraville,"New South Wales",Australia,3.3623
+Candace,Fernandez,1964-12-28,F,70000,Matraville,"New South Wales",Australia,2.9733
+Jessie,Liu,1964-09-11,M,70000,Warrnambool,Victoria,Australia,1912.1544
+Jessie,Liu,1964-09-11,M,70000,Warrnambool,Victoria,Australia,1251.9813
+Jessie,Liu,1964-09-11,M,70000,Warrnambool,Victoria,Australia,1481.9379
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,1898.0944
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,1265.6195
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,8.2205
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,13.0863
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,1481.9379
+Bianca,Lin,1959-09-09,F,90000,"St. Leonards","New South Wales",Australia,13.0863
+Kari,Alvarez,1963-07-14,F,70000,"Port Macquarie","New South Wales",Australia,1898.0944
+Kari,Alvarez,1963-07-14,F,70000,"Port Macquarie","New South Wales",Australia,1251.9813
+Kari,Alvarez,1963-07-14,F,70000,"Port Macquarie","New South Wales",Australia,13.09
+Kari,Alvarez,1963-07-14,F,70000,"Port Macquarie","New South Wales",Australia,1481.9379
+Kari,Alvarez,1963-07-14,F,70000,"Port Macquarie","New South Wales",Australia,13.0863
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,1898.0944
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,1251.9813
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,1.8663
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,13.09
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,8.2205
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,44.88
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,6.9223
+Ruben,Kapoor,1963-11-05,M,70000,"South Melbourne",Victoria,Australia,1481.9379
+Curtis,Yang,1962-06-06,M,60000,Darlinghurst,"New South Wales",Australia,1912.1544
+Curtis,Yang,1962-06-06,M,60000,Darlinghurst,"New South Wales",Australia,1251.9813
+Curtis,Yang,1962-06-06,M,60000,Darlinghurst,"New South Wales",Australia,1481.9379
+Curtis,Yang,1962-06-06,M,60000,Darlinghurst,"New South Wales",Australia,1.8663
+Curtis,Yang,1962-06-06,M,60000,Darlinghurst,"New South Wales",Australia,3.3623
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,1912.1544
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,1251.9813
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,3.7363
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,1.8663
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,6.9223
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,1481.9379
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,10.8423
+Meredith,Gutierrez,1962-02-23,F,60000,Geelong,Victoria,Australia,1.8663
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,1898.0944
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,1265.6195
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,8.2205
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,59.466
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,1481.9379
+Crystal,Wang,1962-09-09,F,60000,"Hervey Bay",Queensland,Australia,13.0863
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,3.7363
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,1.8663
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,13.0863
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,1.8663
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,9.3463
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,8.2205
+Micheal,Blanco,1962-02-21,M,70000,Perth,"South Australia",Australia,2.9733
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,2.9733
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,3.7363
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,1.8663
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,13.0863
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,9.3463
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,1.8663
+Leslie,Moreno,1962-05-28,F,70000,Rhodes,"New South Wales",Australia,13.0863
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,9.3463
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,0.8565
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,2.9733
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,1.8663
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,3.7363
+Alvin,Cai,1962-02-12,M,70000,"St. Leonards","New South Wales",Australia,23.749
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,9.3463
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,0.8565
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,1.8663
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,3.7363
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,13.0863
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,23.749
+Clinton,Carlson,1962-10-07,M,70000,Sydney,"New South Wales",Australia,2.9733
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,1912.1544
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,1265.6195
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,8.2205
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,3.7363
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,1.8663
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,6.9223
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,1481.9379
+April,Deng,1961-02-21,F,70000,Matraville,"New South Wales",Australia,13.0863
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,1.8663
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,3.7363
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,20.5663
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,2.9733
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,1.8663
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,9.3463
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,2.9733
+Alvin,Zeng,1957-07-03,M,80000,"Lavender Bay","New South Wales",Australia,2.9733
+Evan,James,1935-04-10,M,30000,"Port Macquarie","New South Wales",Australia,9.3463
+Evan,James,1935-04-10,M,30000,"Port Macquarie","New South Wales",Australia,0.8565
+Evan,James,1935-04-10,M,30000,"Port Macquarie","New South Wales",Australia,2.9733
+Evan,James,1935-04-10,M,30000,"Port Macquarie","New South Wales",Australia,38.4923
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,1898.0944
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,1251.9813
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,13.09
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,1.8663
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,13.0863
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,9.1593
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,1481.9379
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,10.8423
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,1.8663
+Beth,Jimιnez,1936-08-09,F,40000,Sydney,"New South Wales",Australia,20.5663
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,2.9733
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,9.3463
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,0.8565
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,2.9733
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,1.8663
+Orlando,Suarez,1960-11-18,M,70000,Newcastle,"New South Wales",Australia,3.7363
+Byron,Vazquez,1960-04-02,M,70000,"North Sydney","New South Wales",Australia,2.9733
+Byron,Vazquez,1960-04-02,M,70000,"North Sydney","New South Wales",Australia,3.7363
+Byron,Vazquez,1960-04-02,M,70000,"North Sydney","New South Wales",Australia,9.3463
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,1.8663
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,9.3463
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,2.9733
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,2.9733
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,3.7363
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,1.8663
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,13.0863
+Philip,Alvarez,1960-06-20,M,70000,Sunbury,Victoria,Australia,41.5723
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,1912.1544
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,1251.9813
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,3.7363
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,1.8663
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,1481.9379
+Ross,Jordan,1957-07-27,M,80000,Warrnambool,Victoria,Australia,13.0863
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,2.9733
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,3.7363
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,1.8663
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,9.1593
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,9.3463
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,1.8663
+Dana,Navarro,1956-04-08,F,70000,Seaford,Victoria,Australia,0.8565
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,1912.1544
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,419.7784
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,8.2205
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,0.8565
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,461.4448
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,1.8663
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,10.8423
+Shaun,Carson,1949-04-07,M,10000,"North Ryde","New South Wales",Australia,0.8565
+Jan,Edwards,1975-10-21,F,40000,"San Gabriel",California,"United States",1.4923
+Jan,Edwards,1975-10-21,F,40000,"San Gabriel",California,"United States",13.09
+Jan,Edwards,1975-10-21,F,40000,"San Gabriel",California,"United States",1.8663
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",1.4923
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",38.4923
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",13.09
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",1.8663
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",3.7363
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",1.8663
+Samantha,Long,1975-12-05,F,40000,Renton,Washington,"United States",13.0863
+Julia,Wright,1975-08-05,F,40000,"Sedro Woolley",Washington,"United States",2171.2942
+Julia,Wright,1975-08-05,F,40000,"Sedro Woolley",Washington,"United States",1251.9813
+Caroline,Russell,1980-01-06,F,30000,Lebanon,Oregon,"United States",13.09
+Caroline,Russell,1980-01-06,F,30000,Lebanon,Oregon,"United States",0.8565
+Angela,Griffin,1980-09-08,F,30000,"Lake Oswego",Oregon,"United States",13.09
+Angela,Griffin,1980-09-08,F,30000,"Lake Oswego",Oregon,"United States",8.2205
+Angela,Griffin,1980-09-08,F,30000,"Lake Oswego",Oregon,"United States",3.7363
+Angela,Griffin,1980-09-08,F,30000,"Lake Oswego",Oregon,"United States",1.8663
+Larry,Townsend,1946-02-26,M,10000,Perth,"South Australia",Australia,1912.1544
+Larry,Townsend,1946-02-26,M,10000,Perth,"South Australia",Australia,419.7784
+Larry,Townsend,1946-02-26,M,10000,Perth,"South Australia",Australia,461.4448
+Marcus,Harris,1979-11-03,M,30000,Burlingame,California,"United States",1265.6195
+Marcus,Harris,1979-11-03,M,30000,Burlingame,California,"United States",3.7363
+Marcus,Harris,1979-11-03,M,30000,Burlingame,California,"United States",1.8663
+Jasmine,Taylor,1978-07-20,F,40000,Spokane,Washington,"United States",13.09
+Jasmine,Taylor,1978-07-20,F,40000,Spokane,Washington,"United States",0.8565
+Jasmine,Taylor,1978-07-20,F,40000,Spokane,Washington,"United States",59.466
+Jasmine,Taylor,1978-07-20,F,40000,Spokane,Washington,"United States",1.4923
+Jasmine,Taylor,1978-07-20,F,40000,Spokane,Washington,"United States",0.8565
+Lauren,Davis,1978-09-15,F,40000,Glendale,California,"United States",1.4923
+Lauren,Davis,1978-09-15,F,40000,Glendale,California,"United States",13.0863
+Lauren,Davis,1978-09-15,F,40000,Glendale,California,"United States",13.09
+Lauren,Davis,1978-09-15,F,40000,Glendale,California,"United States",1.8663
+Tanya,Moreno,1938-11-09,F,30000,Cloverdale,"South Australia",Australia,6.9223
+Tanya,Moreno,1938-11-09,F,30000,Cloverdale,"South Australia",Australia,38.4923
+Tanya,Moreno,1938-11-09,F,30000,Cloverdale,"South Australia",Australia,9.3463
+Javier,Alvarez,1977-02-11,M,30000,Burbank,California,"United States",1.8663
+Javier,Alvarez,1977-02-11,M,30000,Burbank,California,"United States",13.09
+Nicole,Ramirez,1977-06-21,F,40000,"Daly City",California,"United States",1.4923
+Nicole,Ramirez,1977-06-21,F,40000,"Daly City",California,"United States",13.0863
+Nicole,Ramirez,1977-06-21,F,40000,"Daly City",California,"United States",13.09
+Nicole,Ramirez,1977-06-21,F,40000,"Daly City",California,"United States",1.8663
+Nicole,Ramirez,1977-06-21,F,40000,"Daly City",California,"United States",13.0863
+Jonathan,Henderson,1977-02-04,M,40000,Lakewood,California,"United States",13.09
+Jonathan,Henderson,1977-02-04,M,40000,Lakewood,California,"United States",1.8663
+Jonathan,Henderson,1977-02-04,M,40000,Lakewood,California,"United States",0.8565
+Jonathan,Henderson,1977-02-04,M,40000,Lakewood,California,"United States",1.4923
+Jonathan,Henderson,1977-02-04,M,40000,Lakewood,California,"United States",0.8565
+Edward,Hernandez,1979-09-09,M,40000,Ballard,Washington,"United States",1251.9813
+Edward,Hernandez,1979-09-09,M,40000,Ballard,Washington,"United States",20.5663
+Edward,Hernandez,1979-09-09,M,40000,Ballard,Washington,"United States",38.4923
+Jasmine,Coleman,1979-12-08,F,40000,Beaverton,Oregon,"United States",1251.9813
+Jasmine,Coleman,1979-12-08,F,40000,Beaverton,Oregon,"United States",3.7363
+Jasmine,Coleman,1979-12-08,F,40000,Beaverton,Oregon,"United States",1.8663
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,9.3463
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,1.8663
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,1.8663
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,3.7363
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,6.9223
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,41.5723
+Karla,Goel,1939-08-26,F,40000,Matraville,"New South Wales",Australia,1.8663
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,1898.0944
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,1265.6195
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,8.2205
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,13.0863
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,1481.9379
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,13.0863
+Ernest,Wu,1939-02-05,M,60000,Warrnambool,Victoria,Australia,9.1593
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,41.5723
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,1.8663
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,9.3463
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,0.8565
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,1.8663
+Ross,Vazquez,1941-08-16,M,40000,"East Brisbane",Queensland,Australia,13.0863
+Theodore,Gill,1941-04-20,M,40000,"Hervey Bay",Queensland,Australia,1.8663
+Theodore,Gill,1941-04-20,M,40000,"Hervey Bay",Queensland,Australia,0.8565
+Theodore,Gill,1941-04-20,M,40000,"Hervey Bay",Queensland,Australia,9.3463
+Theodore,Gill,1941-04-20,M,40000,"Hervey Bay",Queensland,Australia,6.9223
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,9.3463
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,1.8663
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,13.0863
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,9.1593
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,41.5723
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,1.8663
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,13.0863
+Russell,Shen,1941-03-15,M,40000,Sunbury,Victoria,Australia,6.9223
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,1898.0944
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,1251.9813
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,8.2205
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,0.8565
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,1481.9379
+Melinda,Gill,1942-02-25,F,60000,Sydney,"New South Wales",Australia,6.9223
+James,Williams,1976-01-10,M,40000,Puyallup,Washington,"United States",1251.9813
+Angela,James,1976-06-23,F,40000,Renton,Washington,"United States",23.749
+Angela,James,1976-06-23,F,40000,Renton,Washington,"United States",1.4923
+Angela,James,1976-06-23,F,40000,Renton,Washington,"United States",13.09
+Angela,James,1976-06-23,F,40000,Renton,Washington,"United States",1.8663
+Angela,James,1976-06-23,F,40000,Renton,Washington,"United States",0.8565
+Megan,Walker,1976-08-21,F,40000,Woodburn,Oregon,"United States",1265.6195
+Hunter,Robinson,1976-01-26,M,40000,Burbank,California,"United States",1265.6195
+Maria,Roberts,1976-02-07,F,40000,Lakewood,California,"United States",1251.9813
+Maria,Roberts,1976-02-07,F,40000,Lakewood,California,"United States",1.8663
+Maria,Roberts,1976-02-07,F,40000,Lakewood,California,"United States",13.09
+Maria,Roberts,1976-02-07,F,40000,Lakewood,California,"United States",20.5663
+Hannah,Long,1975-06-11,F,40000,Tacoma,Washington,"United States",1.4923
+Hannah,Long,1975-06-11,F,40000,Tacoma,Washington,"United States",0.8565
+Hannah,Long,1975-06-11,F,40000,Tacoma,Washington,"United States",13.09
+Jason,Wright,1975-10-08,M,40000,"San Gabriel",California,"United States",1265.6195
+Jason,Wright,1975-10-08,M,40000,"San Gabriel",California,"United States",8.2205
+Jason,Wright,1975-10-08,M,40000,"San Gabriel",California,"United States",41.5723
+Brianna,Hughes,1975-09-17,F,40000,"Woodland Hills",California,"United States",1.4923
+Brianna,Hughes,1975-09-17,F,40000,"Woodland Hills",California,"United States",0.8565
+Brianna,Hughes,1975-09-17,F,40000,"Woodland Hills",California,"United States",1.8663
+Brianna,Hughes,1975-09-17,F,40000,"Woodland Hills",California,"United States",13.09
+Brianna,Hughes,1975-09-17,F,40000,"Woodland Hills",California,"United States",0.8565
+Maurice,Tang,1974-01-08,M,40000,Concord,California,"United States",1265.6195
+Maurice,Tang,1974-01-08,M,40000,Concord,California,"United States",0.8565
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",13.09
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",1.8663
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",3.7363
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",1.8663
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",1.4923
+Emily,Wood,1974-04-22,F,40000,Concord,California,"United States",13.0863
+Chase,Cox,1974-03-05,M,40000,"La Jolla",California,"United States",1251.9813
+Chase,Cox,1974-03-05,M,40000,"La Jolla",California,"United States",13.0863
+Gabriel,Wang,1974-12-20,M,40000,"Spring Valley",California,"United States",1.4923
+Gabriel,Wang,1974-12-20,M,40000,"Spring Valley",California,"United States",1.8663
+Gabriel,Wang,1974-12-20,M,40000,"Spring Valley",California,"United States",13.09
+Gabriel,Wang,1974-12-20,M,40000,"Spring Valley",California,"United States",0.8565
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",1.4923
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",0.8565
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",1.8663
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",13.09
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",23.749
+Devin,Brooks,1974-05-05,M,40000,Torrance,California,"United States",13.0863
+Jocelyn,Alexander,1973-07-18,F,60000,Oakland,California,"United States",1.4923
+Jocelyn,Alexander,1973-07-18,F,60000,Oakland,California,"United States",23.749
+Jocelyn,Alexander,1973-07-18,F,60000,Oakland,California,"United States",13.09
+Ashley,Martinez,1972-04-24,F,70000,Olympia,Washington,"United States",1.4923
+Ashley,Martinez,1972-04-24,F,70000,Olympia,Washington,"United States",13.0863
+Ashley,Martinez,1972-04-24,F,70000,Olympia,Washington,"United States",3.3623
+Ashley,Martinez,1972-04-24,F,70000,Olympia,Washington,"United States",1.8663
+Ashley,Martinez,1972-04-24,F,70000,Olympia,Washington,"United States",13.09
+Jasmine,Barnes,1972-08-01,F,80000,Issaquah,Washington,"United States",1251.9813
+Jasmine,Barnes,1972-08-01,F,80000,Issaquah,Washington,"United States",13.09
+Jasmine,Barnes,1972-08-01,F,80000,Issaquah,Washington,"United States",461.4448
+Jasmine,Barnes,1972-08-01,F,80000,Issaquah,Washington,"United States",41.5723
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",1251.9813
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",1.8663
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",13.09
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",8.2205
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",0.8565
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",461.4448
+David,Rodriguez,1968-05-15,M,80000,Oakland,California,"United States",13.0863
+Bryce,Richardson,1968-06-22,M,90000,Coronado,California,"United States",1.4923
+Bryce,Richardson,1968-06-22,M,90000,Coronado,California,"United States",13.0863
+Bryce,Richardson,1968-06-22,M,90000,Coronado,California,"United States",1.8663
+Bryce,Richardson,1968-06-22,M,90000,Coronado,California,"United States",13.09
+Bryce,Richardson,1968-06-22,M,90000,Coronado,California,"United States",0.8565
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",13.09
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",8.2205
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",0.8565
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",1.4923
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",13.0863
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",38.4923
+Carol,Howard,1968-02-05,F,90000,Burien,Washington,"United States",6.9223
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",2171.2942
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",1251.9813
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",8.2205
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",3.7363
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",20.5663
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",461.4448
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",3.3623
+Jonathan,Hill,1967-10-09,M,100000,"Woodland Hills",California,"United States",1.8663
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",1.4923
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",13.0863
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",1.8663
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",13.09
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",3.7363
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",1.8663
+Gabrielle,Adams,1967-11-21,F,100000,Lynnwood,Washington,"United States",13.0863
+Sarah,Thomas,1967-09-01,F,110000,"W. Linn",Oregon,"United States",13.09
+Sarah,Thomas,1967-09-01,F,110000,"W. Linn",Oregon,"United States",1.4923
+Sarah,Thomas,1967-09-01,F,110000,"W. Linn",Oregon,"United States",23.749
+Nicholas,Robinson,1967-07-13,M,110000,"Los Angeles",California,"United States",13.09
+Nicholas,Robinson,1967-07-13,M,110000,"Los Angeles",California,"United States",1.8663
+Nicholas,Robinson,1967-07-13,M,110000,"Los Angeles",California,"United States",0.8565
+Nicholas,Robinson,1967-07-13,M,110000,"Los Angeles",California,"United States",1.4923
+Nicholas,Robinson,1967-07-13,M,110000,"Los Angeles",California,"United States",0.8565
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",2171.2942
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",1265.6195
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",8.2205
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",461.4448
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",1.8663
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",10.8423
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",1.8663
+Luis,Wang,1963-03-05,M,70000,"Beverly Hills",California,"United States",3.3623
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",1.4923
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",0.8565
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",13.09
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",1.8663
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",13.0863
+Jose,Flores,1942-07-04,M,110000,"San Diego",California,"United States",41.5723
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",1.4923
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",23.749
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",13.0863
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",13.09
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",1.8663
+Nathan,Johnson,1943-08-24,M,100000,Lakewood,California,"United States",0.8565
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",13.09
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",1.8663
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",8.2205
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",1.4923
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",13.0863
+Molly,Rodriguez,1943-06-14,F,120000,"Beverly Hills",California,"United States",9.1593
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",1.4923
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",13.0863
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",13.09
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",1.8663
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",9.1593
+April,Anand,1943-01-02,F,160000,"Chula Vista",California,"United States",13.0863
+Devin,Martin,1943-08-08,M,170000,"Los Angeles",California,"United States",13.09
+Devin,Martin,1943-08-08,M,170000,"Los Angeles",California,"United States",0.8565
+Devin,Martin,1943-08-08,M,170000,"Los Angeles",California,"United States",1.4923
+Stephanie,Torres,1944-08-25,F,70000,"Sedro Woolley",Washington,"United States",1.8663
+Stephanie,Torres,1944-08-25,F,70000,"Sedro Woolley",Washington,"United States",13.09
+Stephanie,Torres,1944-08-25,F,70000,"Sedro Woolley",Washington,"United States",0.8565
+Stephanie,Torres,1944-08-25,F,70000,"Sedro Woolley",Washington,"United States",1.4923
+Stephanie,Torres,1944-08-25,F,70000,"Sedro Woolley",Washington,"United States",13.0863
+Jasmine,Lee,1944-07-15,F,70000,"Santa Cruz",California,"United States",1.4923
+Jasmine,Lee,1944-07-15,F,70000,"Santa Cruz",California,"United States",0.8565
+Jasmine,Lee,1944-07-15,F,70000,"Santa Cruz",California,"United States",13.09
+Jasmine,Lee,1944-07-15,F,70000,"Santa Cruz",California,"United States",1.8663
+Meghan,Hernandez,1944-11-16,F,70000,Concord,California,"United States",13.09
+Meghan,Hernandez,1944-11-16,F,70000,Concord,California,"United States",1.8663
+Meghan,Hernandez,1944-11-16,F,70000,Concord,California,"United States",8.2205
+Meghan,Hernandez,1944-11-16,F,70000,Concord,California,"United States",1.4923
+Meghan,Hernandez,1944-11-16,F,70000,Concord,California,"United States",0.8565
+Sarah,Price,1944-05-21,F,70000,"Palo Alto",California,"United States",1.4923
+Sarah,Price,1944-05-21,F,70000,"Palo Alto",California,"United States",13.09
+Sarah,Price,1944-05-21,F,70000,"Palo Alto",California,"United States",0.8565
+Jennifer,Cooper,1944-02-22,F,60000,Burien,Washington,"United States",1.4923
+Jennifer,Cooper,1944-02-22,F,60000,Burien,Washington,"United States",23.749
+Jennifer,Cooper,1944-02-22,F,60000,Burien,Washington,"United States",13.09
+Jennifer,Cooper,1944-02-22,F,60000,Burien,Washington,"United States",1.8663
+Catherine,Morris,1944-09-06,F,60000,"San Gabriel",California,"United States",1.8663
+Catherine,Morris,1944-09-06,F,60000,"San Gabriel",California,"United States",13.09
+Catherine,Morris,1944-09-06,F,60000,"San Gabriel",California,"United States",13.0863
+Catherine,Morris,1944-09-06,F,60000,"San Gabriel",California,"United States",1.4923
+Catherine,Morris,1944-09-06,F,60000,"San Gabriel",California,"United States",0.8565
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",2171.2942
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",1251.9813
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",1.8663
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",13.09
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",8.2205
+Lawrence,Blanco,1944-07-15,M,60000,Bellingham,Washington,"United States",3.3623
+Carson,Bryant,1944-06-22,M,70000,"Beverly Hills",California,"United States",1.4923
+Carson,Bryant,1944-06-22,M,70000,"Beverly Hills",California,"United States",0.8565
+Carson,Bryant,1944-06-22,M,70000,"Beverly Hills",California,"United States",1.8663
+Carson,Bryant,1944-06-22,M,70000,"Beverly Hills",California,"United States",13.09
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",2171.2942
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",1265.6195
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",13.09
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",1.8663
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",461.4448
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",6.9223
+Kristi,Perez,1945-12-18,F,70000,Colma,California,"United States",41.5723
+James,Brown,1945-09-13,M,60000,Seattle,Washington,"United States",1.4923
+James,Brown,1945-09-13,M,60000,Seattle,Washington,"United States",13.0863
+James,Brown,1945-09-13,M,60000,Seattle,Washington,"United States",1.8663
+James,Brown,1945-09-13,M,60000,Seattle,Washington,"United States",13.09
+James,Brown,1945-09-13,M,60000,Seattle,Washington,"United States",13.0863
+Ian,Gray,1945-02-13,M,60000,Woodburn,Oregon,"United States",13.09
+Ian,Gray,1945-02-13,M,60000,Woodburn,Oregon,"United States",1.4923
+Ian,Gray,1945-02-13,M,60000,Woodburn,Oregon,"United States",0.8565
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",13.09
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",1.8663
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",0.8565
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",1.4923
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",13.0863
+Jacqueline,Price,1945-06-10,F,60000,"Palo Alto",California,"United States",9.1593
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",1.4923
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",0.8565
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",1.8663
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",13.09
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",13.0863
+Megan,Henderson,1946-02-10,F,60000,Renton,Washington,"United States",9.1593
+Alfredo,Romero,1946-06-07,M,60000,Beaverton,Oregon,"United States",0.8565
+Alfredo,Romero,1946-06-07,M,60000,Beaverton,Oregon,"United States",1.8663
+Alfredo,Romero,1946-06-07,M,60000,Beaverton,Oregon,"United States",13.09
+Alfredo,Romero,1946-06-07,M,60000,Beaverton,Oregon,"United States",44.88
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",13.09
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",1.8663
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",0.8565
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",1.4923
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",0.8565
+Andrea,Morris,1946-06-18,F,70000,Seattle,Washington,"United States",59.466
+Brooke,Sanders,1946-11-26,F,70000,"Santa Cruz",California,"United States",1.4923
+Brooke,Sanders,1946-11-26,F,70000,"Santa Cruz",California,"United States",13.0863
+Brooke,Sanders,1946-11-26,F,70000,"Santa Cruz",California,"United States",9.1593
+Brooke,Sanders,1946-11-26,F,70000,"Santa Cruz",California,"United States",13.09
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",1.4923
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",0.8565
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",13.09
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",1.8663
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",8.2205
+Jacqueline,Bennett,1946-11-06,F,70000,Burlingame,California,"United States",23.749
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",13.09
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",8.2205
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",13.0863
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",1.4923
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",13.0863
+Amanda,Foster,1947-08-18,F,70000,"Santa Monica",California,"United States",38.4923
+Alexia,Price,1947-08-26,F,80000,Lakewood,California,"United States",1.4923
+Alexia,Price,1947-08-26,F,80000,Lakewood,California,"United States",13.0863
+Alexia,Price,1947-08-26,F,80000,Lakewood,California,"United States",13.09
+Destiny,Rivera,1948-06-01,F,40000,Beaverton,Oregon,"United States",0.8565
+Destiny,Rivera,1948-06-01,F,40000,Beaverton,Oregon,"United States",13.09
+Destiny,Rivera,1948-06-01,F,40000,Beaverton,Oregon,"United States",1.8663
+Destiny,Rivera,1948-06-01,F,40000,Beaverton,Oregon,"United States",13.0863
+Abby,Fernandez,1948-07-24,F,40000,Burien,Washington,"United States",13.09
+Abby,Fernandez,1948-07-24,F,40000,Burien,Washington,"United States",0.8565
+Blake,Flores,1948-09-24,M,60000,Lynnwood,Washington,"United States",1.8663
+Blake,Flores,1948-09-24,M,60000,Lynnwood,Washington,"United States",13.09
+Blake,Flores,1948-09-24,M,60000,Lynnwood,Washington,"United States",13.0863
+Blake,Flores,1948-09-24,M,60000,Lynnwood,Washington,"United States",0.8565
+Danielle,Cox,1948-07-19,F,60000,Renton,Washington,"United States",13.09
+Danielle,Cox,1948-07-19,F,60000,Renton,Washington,"United States",1.8663
+Danielle,Cox,1948-07-19,F,60000,Renton,Washington,"United States",13.0863
+Danielle,Cox,1948-07-19,F,60000,Renton,Washington,"United States",0.8565
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",13.09
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",1.8663
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",8.2205
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",3.7363
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",1.8663
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",20.5663
+Maria,Reed,1948-02-04,F,60000,Glendale,California,"United States",0.8565
+Allison,Evans,1948-01-13,F,60000,"Lincoln Acres",California,"United States",0.8565
+Allison,Evans,1948-01-13,F,60000,"Lincoln Acres",California,"United States",13.09
+Edward,Wood,1948-06-08,M,70000,"West Covina",California,"United States",1.8663
+Edward,Wood,1948-06-08,M,70000,"West Covina",California,"United States",13.09
+Edward,Wood,1948-06-08,M,70000,"West Covina",California,"United States",0.8565
+Edward,Wood,1948-06-08,M,70000,"West Covina",California,"United States",1.4923
+Edward,Wood,1948-06-08,M,70000,"West Covina",California,"United States",9.1593
+Stephanie,Murphy,1949-05-14,F,60000,Edmonds,Washington,"United States",0.8565
+Stephanie,Murphy,1949-05-14,F,60000,Edmonds,Washington,"United States",1.8663
+Stephanie,Murphy,1949-05-14,F,60000,Edmonds,Washington,"United States",13.09
+Stephanie,Murphy,1949-05-14,F,60000,Edmonds,Washington,"United States",13.0863
+Charles,Miller,1949-11-07,M,60000,Milwaukie,Oregon,"United States",0.8565
+Charles,Miller,1949-11-07,M,60000,Milwaukie,Oregon,"United States",13.09
+Charles,Miller,1949-11-07,M,60000,Milwaukie,Oregon,"United States",1.8663
+Charles,Miller,1949-11-07,M,60000,Milwaukie,Oregon,"United States",44.88
+Jasmine,Torres,1950-05-20,F,60000,Portland,Oregon,"United States",2171.2942
+Jasmine,Torres,1950-05-20,F,60000,Portland,Oregon,"United States",1251.9813
+Jasmine,Torres,1950-05-20,F,60000,Portland,Oregon,"United States",13.09
+Jasmine,Torres,1950-05-20,F,60000,Portland,Oregon,"United States",1.8663
+Jasmine,Torres,1950-05-20,F,60000,Portland,Oregon,"United States",13.0863
+Natalie,Adams,1950-02-11,F,60000,Portland,Oregon,"United States",2171.2942
+Natalie,Adams,1950-02-11,F,60000,Portland,Oregon,"United States",1265.6195
+Natalie,Adams,1950-02-11,F,60000,Portland,Oregon,"United States",20.5663
+Olivia,Brown,1950-09-11,F,60000,Tacoma,Washington,"United States",0.8565
+Olivia,Brown,1950-09-11,F,60000,Tacoma,Washington,"United States",13.09
+Olivia,Brown,1950-09-11,F,60000,Tacoma,Washington,"United States",0.8565
+Charles,Cook,1950-12-02,M,60000,Woodburn,Oregon,"United States",13.09
+Charles,Cook,1950-12-02,M,60000,Woodburn,Oregon,"United States",0.8565
+Charles,Cook,1950-12-02,M,60000,Woodburn,Oregon,"United States",0.8565
+Erica,Huang,1950-02-23,F,60000,Colma,California,"United States",13.09
+Erica,Huang,1950-02-23,F,60000,Colma,California,"United States",1.8663
+Erica,Huang,1950-02-23,F,60000,Colma,California,"United States",0.8565
+Erica,Huang,1950-02-23,F,60000,Colma,California,"United States",2.9733
+Nathan,Perry,1950-06-10,M,70000,Lakewood,California,"United States",1.4923
+Nathan,Perry,1950-06-10,M,70000,Lakewood,California,"United States",13.09
+Nathan,Perry,1950-06-10,M,70000,Lakewood,California,"United States",1.8663
+Nathan,Perry,1950-06-10,M,70000,Lakewood,California,"United States",0.8565
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",1.4923
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",44.88
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",6.9223
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",1.8663
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",13.09
+Alexandra,Rivera,1950-08-17,F,80000,"Santa Monica",California,"United States",13.0863
+Tiffany,Li,1951-09-06,F,70000,Burien,Washington,"United States",2171.2942
+Tiffany,Li,1951-09-06,F,70000,Burien,Washington,"United States",1251.9813
+Tiffany,Li,1951-09-06,F,70000,Burien,Washington,"United States",13.0863
+Tiffany,Li,1951-09-06,F,70000,Burien,Washington,"United States",461.4448
+Tiffany,Li,1951-09-06,F,70000,Burien,Washington,"United States",13.0863
+Madison,Lee,1951-02-16,F,60000,Renton,Washington,"United States",0.8565
+Madison,Lee,1951-02-16,F,60000,Renton,Washington,"United States",1.8663
+Madison,Lee,1951-02-16,F,60000,Renton,Washington,"United States",13.09
+Madison,Lee,1951-02-16,F,60000,Renton,Washington,"United States",8.2205
+Madison,Lee,1951-02-16,F,60000,Renton,Washington,"United States",6.9223
+Sydney,Ross,1951-09-27,F,60000,"W. Linn",Oregon,"United States",0.8565
+Sydney,Ross,1951-09-27,F,60000,"W. Linn",Oregon,"United States",13.09
+Marshall,Chavez,1951-08-12,M,60000,Colma,California,"United States",2171.2942
+Marshall,Chavez,1951-08-12,M,60000,Colma,California,"United States",1251.9813
+Marshall,Chavez,1951-08-12,M,60000,Colma,California,"United States",8.2205
+Marshall,Chavez,1951-08-12,M,60000,Colma,California,"United States",1.8663
+Marshall,Chavez,1951-08-12,M,60000,Colma,California,"United States",3.7363
+Ashley,Jones,1951-04-19,F,60000,"El Cajon",California,"United States",0.8565
+Ashley,Jones,1951-04-19,F,60000,"El Cajon",California,"United States",13.09
+Ashley,Jones,1951-04-19,F,60000,"El Cajon",California,"United States",1.8663
+Ashley,Jones,1951-04-19,F,60000,"El Cajon",California,"United States",13.0863
+Adrian,Stewart,1951-12-03,M,70000,"Redwood City",California,"United States",13.09
+Adrian,Stewart,1951-12-03,M,70000,"Redwood City",California,"United States",1.8663
+Adrian,Stewart,1951-12-03,M,70000,"Redwood City",California,"United States",0.8565
+Adrian,Stewart,1951-12-03,M,70000,"Redwood City",California,"United States",1.4923
+Adrian,Stewart,1951-12-03,M,70000,"Redwood City",California,"United States",13.0863
+Amber,Turner,1951-04-03,F,70000,"Santa Monica",California,"United States",1.4923
+Amber,Turner,1951-04-03,F,70000,"Santa Monica",California,"United States",2.9733
+Amber,Turner,1951-04-03,F,70000,"Santa Monica",California,"United States",13.09
+Amber,Turner,1951-04-03,F,70000,"Santa Monica",California,"United States",1.8663
+Amber,Turner,1951-04-03,F,70000,"Santa Monica",California,"United States",0.8565
+Dennis,Zhang,1952-11-14,M,60000,Bremerton,Washington,"United States",1.8663
+Dennis,Zhang,1952-11-14,M,60000,Bremerton,Washington,"United States",13.09
+Dennis,Zhang,1952-11-14,M,60000,Bremerton,Washington,"United States",8.2205
+Dennis,Zhang,1952-11-14,M,60000,Bremerton,Washington,"United States",0.8565
+Hailey,Bryant,1952-09-27,F,60000,Everett,Washington,"United States",0.8565
+Hailey,Bryant,1952-09-27,F,60000,Everett,Washington,"United States",13.09
+Hailey,Bryant,1952-09-27,F,60000,Everett,Washington,"United States",0.8565
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",13.09
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",8.2205
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",13.0863
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",38.4923
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",6.9223
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",1.4923
+Todd,Li,1952-09-09,M,70000,Berkeley,California,"United States",9.1593
+Anna,Griffin,1952-11-19,F,70000,"Long Beach",California,"United States",1.4923
+Anna,Griffin,1952-11-19,F,70000,"Long Beach",California,"United States",13.0863
+Anna,Griffin,1952-11-19,F,70000,"Long Beach",California,"United States",13.09
+Anna,Griffin,1952-11-19,F,70000,"Long Beach",California,"United States",0.8565
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",13.09
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",1.8663
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",13.0863
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",1.4923
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",13.0863
+Angel,Stewart,1952-02-08,M,70000,Ballard,Washington,"United States",9.1593
+Jeremy,Butler,1952-03-05,M,70000,Bellingham,Washington,"United States",13.09
+Jeremy,Butler,1952-03-05,M,70000,Bellingham,Washington,"United States",1.8663
+Jeremy,Butler,1952-03-05,M,70000,Bellingham,Washington,"United States",13.0863
+Jeremy,Butler,1952-03-05,M,70000,Bellingham,Washington,"United States",1.4923
+Jeremy,Butler,1952-03-05,M,70000,Bellingham,Washington,"United States",13.0863
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,1898.0944
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,1265.6195
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,1481.9379
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,13.0863
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,1554.9479
+Clarence,Anand,1958-09-23,M,130000,Solingen,Nordrhein-Westfalen,Germany,3.3623
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1105.81
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1251.9813
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,13.0863
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,308.2179
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1.8663
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,9.3463
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,13.0863
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,41.5723
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,9.1593
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,461.4448
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,10.8423
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1.8663
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,13.0863
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,343.6496
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1.8663
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,3.3623
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1481.9379
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,10.8423
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1.8663
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,0.8565
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,59.466
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,6.9223
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,1481.9379
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,13.0863
+Lisa,Cai,1957-10-11,F,100000,"Les Ulis",Essonne,France,6.9223
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,1105.81
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,1265.6195
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,308.2179
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,3.7363
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,343.6496
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,1481.9379
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,461.4448
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,3.3623
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,1.8663
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,9.1593
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,1481.9379
+Larry,Munoz,1957-11-11,M,110000,Versailles,Yveline,France,13.0863
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1898.0944
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1265.6195
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,3.7363
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1.8663
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1481.9379
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,10.8423
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1.8663
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,1554.9479
+Ricky,Vazquez,1956-10-27,M,120000,Hamburg,Hessen,Germany,3.3623
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,1898.0944
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,1265.6195
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,3.7363
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,1481.9379
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,13.0863
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,1554.9479
+Latasha,Rubio,1956-10-09,F,120000,Hamburg,Hamburg,Germany,2.9733
+Tristan,Alexander,1955-03-26,M,110000,Saint-Denis,"Seine Saint Denis",France,3.3623
+Tristan,Alexander,1955-03-26,M,110000,Saint-Denis,"Seine Saint Denis",France,9.1593
+Tristan,Alexander,1955-03-26,M,110000,Saint-Denis,"Seine Saint Denis",France,1.8663
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1912.1544
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1251.9813
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1.8663
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,3.7363
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1082.51
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,38.4923
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,6.9223
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1481.9379
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,10.8423
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,1.8663
+Cindy,Patel,1955-07-13,F,130000,"Sulzbach Taunus",Saarland,Germany,0.8565
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",2171.2942
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",1265.6195
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",8.2205
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",461.4448
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",3.3623
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",1.8663
+Nicholas,Thompson,1932-06-07,M,90000,"Lemon Grove",California,"United States",6.9223
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",13.09
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",1.8663
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",8.2205
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",3.7363
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",1.8663
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",23.749
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",1.4923
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",9.1593
+Johnathan,Vance,1933-03-03,M,70000,Burien,Washington,"United States",13.0863
+Colin,Lin,1933-04-04,M,70000,Burien,Washington,"United States",1.8663
+Colin,Lin,1933-04-04,M,70000,Burien,Washington,"United States",13.09
+Colin,Lin,1933-04-04,M,70000,Burien,Washington,"United States",13.0863
+Colin,Lin,1933-04-04,M,70000,Burien,Washington,"United States",1.4923
+Colin,Lin,1933-04-04,M,70000,Burien,Washington,"United States",13.0863
+Katelyn,Hernandez,1933-09-20,F,70000,Lynnwood,Washington,"United States",1.4923
+Katelyn,Hernandez,1933-09-20,F,70000,Lynnwood,Washington,"United States",13.0863
+Katelyn,Hernandez,1933-09-20,F,70000,Lynnwood,Washington,"United States",13.09
+Katelyn,Hernandez,1933-09-20,F,70000,Lynnwood,Washington,"United States",1.8663
+Katelyn,Hernandez,1933-09-20,F,70000,Lynnwood,Washington,"United States",0.8565
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",2171.2942
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",1251.9813
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",0.8565
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",461.4448
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",13.0863
+Jacqueline,Powell,1933-01-06,F,120000,"Newport Beach",California,"United States",9.1593
+Xavier,Hill,1933-06-28,M,120000,"Palo Alto",California,"United States",1.4923
+Xavier,Hill,1933-06-28,M,120000,"Palo Alto",California,"United States",0.8565
+Xavier,Hill,1933-06-28,M,120000,"Palo Alto",California,"United States",2.9733
+Xavier,Hill,1933-06-28,M,120000,"Palo Alto",California,"United States",13.09
+Victoria,Stewart,1965-03-27,F,100000,Salem,Oregon,"United States",2171.2942
+Victoria,Stewart,1965-03-27,F,100000,Salem,Oregon,"United States",1251.9813
+Victoria,Stewart,1965-03-27,F,100000,Salem,Oregon,"United States",44.88
+Victoria,Stewart,1965-03-27,F,100000,Salem,Oregon,"United States",461.4448
+Victoria,Stewart,1965-03-27,F,100000,Salem,Oregon,"United States",13.0863
+Katelyn,Kelly,1965-04-12,F,110000,Burlingame,California,"United States",1.8663
+Katelyn,Kelly,1965-04-12,F,110000,Burlingame,California,"United States",13.09
+Katelyn,Kelly,1965-04-12,F,110000,Burlingame,California,"United States",0.8565
+Katelyn,Kelly,1965-04-12,F,110000,Burlingame,California,"United States",1.4923
+Katelyn,Kelly,1965-04-12,F,110000,Burlingame,California,"United States",13.0863
+Stephanie,Collins,1965-04-24,F,130000,"San Diego",California,"United States",2171.2942
+Stephanie,Collins,1965-04-24,F,130000,"San Diego",California,"United States",1251.9813
+Stephanie,Collins,1965-04-24,F,130000,"San Diego",California,"United States",13.0863
+Stephanie,Collins,1965-04-24,F,130000,"San Diego",California,"United States",461.4448
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",2171.2942
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",1265.6195
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",13.09
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",1.8663
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",13.0863
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",461.4448
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",3.3623
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",9.1593
+Trinity,Richardson,1964-09-11,F,90000,Burien,Washington,"United States",1.8663
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",1251.9813
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",8.2205
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",38.4923
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",6.9223
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",461.4448
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",3.3623
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",1.8663
+Eduardo,Martin,1964-06-17,M,90000,Issaquah,Washington,"United States",38.4923
+Elizabeth,Jones,1964-07-13,F,90000,Kirkland,Washington,"United States",1251.9813
+Elizabeth,Jones,1964-07-13,F,90000,Kirkland,Washington,"United States",8.2205
+Elizabeth,Jones,1964-07-13,F,90000,Kirkland,Washington,"United States",13.0863
+Taylor,Howard,1964-05-05,F,90000,"Port Orchard",Washington,"United States",2171.2942
+Taylor,Howard,1964-05-05,F,90000,"Port Orchard",Washington,"United States",1265.6195
+Taylor,Howard,1964-05-05,F,90000,"Port Orchard",Washington,"United States",3.7363
+Taylor,Howard,1964-05-05,F,90000,"Port Orchard",Washington,"United States",1.8663
+Taylor,Howard,1964-05-05,F,90000,"Port Orchard",Washington,"United States",6.9223
+David,Diaz,1964-10-02,M,120000,Burlingame,California,"United States",2171.2942
+David,Diaz,1964-10-02,M,120000,Burlingame,California,"United States",1251.9813
+David,Diaz,1964-10-02,M,120000,Burlingame,California,"United States",3.7363
+David,Diaz,1964-10-02,M,120000,Burlingame,California,"United States",1.8663
+David,Diaz,1964-10-02,M,120000,Burlingame,California,"United States",20.5663
+Katelyn,Carter,1964-05-03,F,130000,Coronado,California,"United States",1.4923
+Katelyn,Carter,1964-05-03,F,130000,Coronado,California,"United States",0.8565
+Katelyn,Carter,1964-05-03,F,130000,Coronado,California,"United States",13.09
+Katelyn,Carter,1964-05-03,F,130000,Coronado,California,"United States",8.2205
+Katelyn,Carter,1964-05-03,F,130000,Coronado,California,"United States",13.0863
+Ryan,Foster,1964-10-13,M,130000,"Daly City",California,"United States",0.8565
+Ryan,Foster,1964-10-13,M,130000,"Daly City",California,"United States",13.09
+Ryan,Foster,1964-10-13,M,130000,"Daly City",California,"United States",1.8663
+Robert,Lee,1964-05-04,M,130000,Lakewood,California,"United States",2171.2942
+Robert,Lee,1964-05-04,M,130000,Lakewood,California,"United States",1251.9813
+Robert,Lee,1964-05-04,M,130000,Lakewood,California,"United States",8.2205
+Robert,Lee,1964-05-04,M,130000,Lakewood,California,"United States",13.0863
+Robert,Lee,1964-05-04,M,130000,Lakewood,California,"United States",41.5723
+Danielle,Reed,1964-06-05,F,150000,"San Francisco",California,"United States",2171.2942
+Danielle,Reed,1964-06-05,F,150000,"San Francisco",California,"United States",1265.6195
+Danielle,Reed,1964-06-05,F,150000,"San Francisco",California,"United States",1.8663
+Danielle,Reed,1964-06-05,F,150000,"San Francisco",California,"United States",13.09
+Danielle,Reed,1964-06-05,F,150000,"San Francisco",California,"United States",13.0863
+Lauren,Martinez,1956-11-10,F,70000,"Beverly Hills",California,"United States",2171.2942
+Lauren,Martinez,1956-11-10,F,70000,"Beverly Hills",California,"United States",1265.6195
+Lauren,Martinez,1956-11-10,F,70000,"Beverly Hills",California,"United States",8.2205
+Lauren,Martinez,1956-11-10,F,70000,"Beverly Hills",California,"United States",20.5663
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",1.8663
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",13.09
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",8.2205
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",1.8663
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",3.7363
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",13.0863
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",0.8565
+Nathan,Lal,1956-10-01,M,90000,"La Jolla",California,"United States",59.466
+Kyle,Foster,1934-04-12,M,50000,Bellingham,Washington,"United States",2171.2942
+Kyle,Foster,1934-04-12,M,50000,Bellingham,Washington,"United States",1251.9813
+Kyle,Foster,1934-04-12,M,50000,Bellingham,Washington,"United States",1.8663
+Kyle,Foster,1934-04-12,M,50000,Bellingham,Washington,"United States",3.7363
+Jenny,Rai,1934-01-18,F,80000,Colma,California,"United States",2171.2942
+Jenny,Rai,1934-01-18,F,80000,Colma,California,"United States",1265.6195
+Jenny,Rai,1934-01-18,F,80000,Colma,California,"United States",8.2205
+Jenny,Rai,1934-01-18,F,80000,Colma,California,"United States",13.0863
+Jonathan,Phillips,1963-08-20,M,90000,Edmonds,Washington,"United States",2171.2942
+Jonathan,Phillips,1963-08-20,M,90000,Edmonds,Washington,"United States",1251.9813
+Jonathan,Phillips,1963-08-20,M,90000,Edmonds,Washington,"United States",13.0863
+Amanda,Cook,1963-09-12,F,90000,Everett,Washington,"United States",0.8565
+Amanda,Cook,1963-09-12,F,90000,Everett,Washington,"United States",13.09
+Amanda,Cook,1963-09-12,F,90000,Everett,Washington,"United States",1.8663
+Amanda,Cook,1963-09-12,F,90000,Everett,Washington,"United States",0.8565
+Robert,Collins,1963-08-21,M,90000,Lynnwood,Washington,"United States",13.09
+Robert,Collins,1963-08-21,M,90000,Lynnwood,Washington,"United States",1.8663
+Robert,Collins,1963-08-21,M,90000,Lynnwood,Washington,"United States",13.0863
+Robert,Collins,1963-08-21,M,90000,Lynnwood,Washington,"United States",0.8565
+Megan,Barnes,1963-10-10,F,110000,Burbank,California,"United States",2171.2942
+Megan,Barnes,1963-10-10,F,110000,Burbank,California,"United States",1265.6195
+Megan,Barnes,1963-10-10,F,110000,Burbank,California,"United States",1.8663
+Megan,Barnes,1963-10-10,F,110000,Burbank,California,"United States",3.7363
+Megan,Barnes,1963-10-10,F,110000,Burbank,California,"United States",2.9733
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",2171.2942
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",1251.9813
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",1.8663
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",13.09
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",8.2205
+Christian,Thomas,1962-01-16,M,90000,Burien,Washington,"United States",23.749
+Arturo,Lal,1962-10-26,M,110000,Berkeley,California,"United States",13.09
+Arturo,Lal,1962-10-26,M,110000,Berkeley,California,"United States",1.8663
+Arturo,Lal,1962-10-26,M,110000,Berkeley,California,"United States",0.8565
+Arturo,Lal,1962-10-26,M,110000,Berkeley,California,"United States",0.8565
+Theresa,Serrano,1962-03-27,F,110000,"Chula Vista",California,"United States",0.8565
+Theresa,Serrano,1962-03-27,F,110000,"Chula Vista",California,"United States",2.9733
+Theresa,Serrano,1962-03-27,F,110000,"Chula Vista",California,"United States",13.09
+Theresa,Serrano,1962-03-27,F,110000,"Chula Vista",California,"United States",0.8565
+Theresa,Serrano,1962-03-27,F,110000,"Chula Vista",California,"United States",2.9733
+Jeremy,Anderson,1962-03-19,M,120000,Fremont,California,"United States",1.8663
+Jeremy,Anderson,1962-03-19,M,120000,Fremont,California,"United States",13.09
+Jeremy,Anderson,1962-03-19,M,120000,Fremont,California,"United States",8.2205
+Jeremy,Anderson,1962-03-19,M,120000,Fremont,California,"United States",23.749
+Jeremy,Anderson,1962-03-19,M,120000,Fremont,California,"United States",0.8565
+Hunter,Griffin,1962-03-03,M,170000,Torrance,California,"United States",2171.2942
+Hunter,Griffin,1962-03-03,M,170000,Torrance,California,"United States",1251.9813
+Hunter,Griffin,1962-03-03,M,170000,Torrance,California,"United States",8.2205
+Hunter,Griffin,1962-03-03,M,170000,Torrance,California,"United States",38.4923
+Hunter,Griffin,1962-03-03,M,170000,Torrance,California,"United States",6.9223
+Cindy,Sanchez,1961-09-16,F,110000,Burbank,California,"United States",0.8565
+Cindy,Sanchez,1961-09-16,F,110000,Burbank,California,"United States",13.09
+Cindy,Sanchez,1961-09-16,F,110000,Burbank,California,"United States",1.8663
+Cindy,Sanchez,1961-09-16,F,110000,Burbank,California,"United States",13.0863
+Maria,Carter,1961-03-07,F,130000,Downey,California,"United States",2171.2942
+Maria,Carter,1961-03-07,F,130000,Downey,California,"United States",1251.9813
+Maria,Carter,1961-03-07,F,130000,Downey,California,"United States",8.2205
+Maria,Carter,1961-03-07,F,130000,Downey,California,"United States",0.8565
+Maria,Carter,1961-03-07,F,130000,Downey,California,"United States",2.9733
+Katelyn,Sanchez,1961-08-18,F,130000,Lakewood,California,"United States",2171.2942
+Katelyn,Sanchez,1961-08-18,F,130000,Lakewood,California,"United States",1265.6195
+Katelyn,Sanchez,1961-08-18,F,130000,Lakewood,California,"United States",13.0863
+Jenna,Wright,1961-05-05,F,130000,"Lemon Grove",California,"United States",2171.2942
+Jenna,Wright,1961-05-05,F,130000,"Lemon Grove",California,"United States",1251.9813
+Seth,Phillips,1961-11-05,M,150000,"San Gabriel",California,"United States",2171.2942
+Seth,Phillips,1961-11-05,M,150000,"San Gabriel",California,"United States",1251.9813
+Seth,Phillips,1961-11-05,M,150000,"San Gabriel",California,"United States",8.2205
+Seth,Phillips,1961-11-05,M,150000,"San Gabriel",California,"United States",1.8663
+Seth,Phillips,1961-11-05,M,150000,"San Gabriel",California,"United States",3.7363
+Luke,Long,1955-05-27,M,60000,"Port Orchard",Washington,"United States",1.8663
+Luke,Long,1955-05-27,M,60000,"Port Orchard",Washington,"United States",13.09
+Luke,Long,1955-05-27,M,60000,"Port Orchard",Washington,"United States",13.0863
+Luke,Long,1955-05-27,M,60000,"Port Orchard",Washington,"United States",0.8565
+Luke,Long,1955-05-27,M,60000,"Port Orchard",Washington,"United States",2.9733
+Dalton,Clark,1955-09-03,M,60000,Issaquah,Washington,"United States",0.8565
+Dalton,Clark,1955-09-03,M,60000,Issaquah,Washington,"United States",13.09
+Dalton,Clark,1955-09-03,M,60000,Issaquah,Washington,"United States",1.8663
+Taylor,Lewis,1954-05-16,F,80000,Concord,California,"United States",2171.2942
+Taylor,Lewis,1954-05-16,F,80000,Concord,California,"United States",1265.6195
+Taylor,Lewis,1954-05-16,F,80000,Concord,California,"United States",1.8663
+Taylor,Lewis,1954-05-16,F,80000,Concord,California,"United States",13.09
+Taylor,Lewis,1954-05-16,F,80000,Concord,California,"United States",44.88
+Haley,Richardson,1935-10-07,F,50000,Everett,Washington,"United States",2171.2942
+Haley,Richardson,1935-10-07,F,50000,Everett,Washington,"United States",1251.9813
+Haley,Richardson,1935-10-07,F,50000,Everett,Washington,"United States",8.2205
+Haley,Richardson,1935-10-07,F,50000,Everett,Washington,"United States",0.8565
+Noah,Coleman,1935-02-02,M,70000,Burbank,California,"United States",2171.2942
+Noah,Coleman,1935-02-02,M,70000,Burbank,California,"United States",1251.9813
+Noah,Coleman,1935-02-02,M,70000,Burbank,California,"United States",13.09
+Noah,Coleman,1935-02-02,M,70000,Burbank,California,"United States",1.8663
+Noah,Coleman,1935-02-02,M,70000,Burbank,California,"United States",13.0863
+Jon,Luo,1935-03-03,M,70000,"Chula Vista",California,"United States",2171.2942
+Jon,Luo,1935-03-03,M,70000,"Chula Vista",California,"United States",1265.6195
+Jon,Luo,1935-03-03,M,70000,"Chula Vista",California,"United States",1.8663
+Jon,Luo,1935-03-03,M,70000,"Chula Vista",California,"United States",6.9223
+Jon,Luo,1935-03-03,M,70000,"Chula Vista",California,"United States",3.7363
+Orlando,Vazquez,1936-04-01,M,70000,Burbank,California,"United States",2171.2942
+Orlando,Vazquez,1936-04-01,M,70000,Burbank,California,"United States",1251.9813
+Orlando,Vazquez,1936-04-01,M,70000,Burbank,California,"United States",8.2205
+Orlando,Vazquez,1936-04-01,M,70000,Burbank,California,"United States",44.88
+Cameron,Rodriguez,1960-06-09,M,80000,Ballard,Washington,"United States",0.8565
+Cameron,Rodriguez,1960-06-09,M,80000,Ballard,Washington,"United States",1.8663
+Cameron,Rodriguez,1960-06-09,M,80000,Ballard,Washington,"United States",13.09
+Cameron,Rodriguez,1960-06-09,M,80000,Ballard,Washington,"United States",13.0863
+Cameron,Rodriguez,1960-06-09,M,80000,Ballard,Washington,"United States",41.5723
+Spencer,Russell,1960-12-12,M,90000,Corvallis,Oregon,"United States",2171.2942
+Spencer,Russell,1960-12-12,M,90000,Corvallis,Oregon,"United States",1251.9813
+Spencer,Russell,1960-12-12,M,90000,Corvallis,Oregon,"United States",13.09
+Spencer,Russell,1960-12-12,M,90000,Corvallis,Oregon,"United States",8.2205
+Spencer,Russell,1960-12-12,M,90000,Corvallis,Oregon,"United States",2.9733
+Julia,Coleman,1960-10-11,F,90000,Edmonds,Washington,"United States",2171.2942
+Julia,Coleman,1960-10-11,F,90000,Edmonds,Washington,"United States",1251.9813
+Julia,Coleman,1960-10-11,F,90000,Edmonds,Washington,"United States",0.8565
+Julia,Garcia,1960-03-17,F,100000,Portland,Oregon,"United States",13.09
+Julia,Garcia,1960-03-17,F,100000,Portland,Oregon,"United States",8.2205
+Julia,Garcia,1960-03-17,F,100000,Portland,Oregon,"United States",20.5663
+Julia,Garcia,1960-03-17,F,100000,Portland,Oregon,"United States",2.9733
+Julia,Garcia,1960-03-17,F,100000,Portland,Oregon,"United States",0.8565
+Sean,Evans,1960-06-19,M,110000,"Chula Vista",California,"United States",0.8565
+Sean,Evans,1960-06-19,M,110000,"Chula Vista",California,"United States",13.09
+Sean,Evans,1960-06-19,M,110000,"Chula Vista",California,"United States",1.8663
+Sean,Evans,1960-06-19,M,110000,"Chula Vista",California,"United States",13.0863
+Micah,Zhou,1960-06-22,M,110000,Coronado,California,"United States",0.8565
+Micah,Zhou,1960-06-22,M,110000,Coronado,California,"United States",1.8663
+Micah,Zhou,1960-06-22,M,110000,Coronado,California,"United States",13.09
+Hunter,Rodriguez,1954-11-04,M,80000,"Daly City",California,"United States",2171.2942
+Hunter,Rodriguez,1954-11-04,M,80000,"Daly City",California,"United States",1265.6195
+Hunter,Rodriguez,1954-11-04,M,80000,"Daly City",California,"United States",8.2205
+Hunter,Rodriguez,1954-11-04,M,80000,"Daly City",California,"United States",13.0863
+Hunter,Rodriguez,1954-11-04,M,80000,"Daly City",California,"United States",3.3623
+Ian,Gonzales,1954-03-05,M,60000,"Oregon City",Oregon,"United States",13.09
+Ian,Gonzales,1954-03-05,M,60000,"Oregon City",Oregon,"United States",8.2205
+Ian,Gonzales,1954-03-05,M,60000,"Oregon City",Oregon,"United States",13.0863
+Ian,Gonzales,1954-03-05,M,60000,"Oregon City",Oregon,"United States",0.8565
+Victoria,Lewis,1954-06-12,F,60000,Beaverton,Oregon,"United States",13.09
+Victoria,Lewis,1954-06-12,F,60000,Beaverton,Oregon,"United States",1.8663
+Victoria,Lewis,1954-06-12,F,60000,Beaverton,Oregon,"United States",0.8565
+Erin,Sanders,1953-07-09,F,70000,"San Francisco",California,"United States",0.8565
+Erin,Sanders,1953-07-09,F,70000,"San Francisco",California,"United States",1.8663
+Erin,Sanders,1953-07-09,F,70000,"San Francisco",California,"United States",13.09
+Erin,Sanders,1953-07-09,F,70000,"San Francisco",California,"United States",13.0863
+Gabrielle,Lopez,1953-08-24,F,70000,Lynnwood,Washington,"United States",13.09
+Gabrielle,Lopez,1953-08-24,F,70000,Lynnwood,Washington,"United States",1.8663
+Gabrielle,Lopez,1953-08-24,F,70000,Lynnwood,Washington,"United States",13.0863
+Gabrielle,Lopez,1953-08-24,F,70000,Lynnwood,Washington,"United States",0.8565
+Sara,Richardson,1953-04-03,F,70000,Lynnwood,Washington,"United States",0.8565
+Sara,Richardson,1953-04-03,F,70000,Lynnwood,Washington,"United States",1.8663
+Sara,Richardson,1953-04-03,F,70000,Lynnwood,Washington,"United States",13.09
+Trevor,Jenkins,1953-02-27,M,70000,"Port Orchard",Washington,"United States",1.8663
+Trevor,Jenkins,1953-02-27,M,70000,"Port Orchard",Washington,"United States",13.09
+Trevor,Jenkins,1953-02-27,M,70000,"Port Orchard",Washington,"United States",0.8565
+Trevor,Jenkins,1953-02-27,M,70000,"Port Orchard",Washington,"United States",0.8565
+Mya,Flores,1953-12-21,F,70000,Issaquah,Washington,"United States",13.09
+Mya,Flores,1953-12-21,F,70000,Issaquah,Washington,"United States",0.8565
+Mya,Flores,1953-12-21,F,70000,Issaquah,Washington,"United States",0.8565
+Mya,Flores,1953-12-21,F,70000,Issaquah,Washington,"United States",2.9733
+Hailey,Ward,1953-10-01,F,70000,"Port Orchard",Washington,"United States",1.8663
+Hailey,Ward,1953-10-01,F,70000,"Port Orchard",Washington,"United States",13.09
+Hailey,Ward,1953-10-01,F,70000,"Port Orchard",Washington,"United States",0.8565
+Victoria,Russell,1952-09-17,F,40000,Salem,Oregon,"United States",2171.2942
+Victoria,Russell,1952-09-17,F,40000,Salem,Oregon,"United States",1251.9813
+Jessica,Wilson,1952-10-26,F,40000,Edmonds,Washington,"United States",13.09
+Jessica,Wilson,1952-10-26,F,40000,Edmonds,Washington,"United States",1.8663
+Jessica,Wilson,1952-10-26,F,40000,Edmonds,Washington,"United States",0.8565
+Jessica,Wilson,1952-10-26,F,40000,Edmonds,Washington,"United States",0.8565
+Jade,Bailey,1937-04-27,F,70000,Oakland,California,"United States",2171.2942
+Jade,Bailey,1937-04-27,F,70000,Oakland,California,"United States",1251.9813
+Jade,Bailey,1937-04-27,F,70000,Oakland,California,"United States",8.2205
+Jade,Bailey,1937-04-27,F,70000,Oakland,California,"United States",13.0863
+Morgan,Hill,1937-06-26,F,80000,Glendale,California,"United States",0.8565
+Morgan,Hill,1937-06-26,F,80000,Glendale,California,"United States",1.8663
+Morgan,Hill,1937-06-26,F,80000,Glendale,California,"United States",13.09
+Morgan,Hill,1937-06-26,F,80000,Glendale,California,"United States",8.2205
+Morgan,Hill,1937-06-26,F,80000,Glendale,California,"United States",2.9733
+Terrance,Raman,1938-07-08,M,90000,Burien,Washington,"United States",0.8565
+Terrance,Raman,1938-07-08,M,90000,Burien,Washington,"United States",13.09
+Sydney,Garcia,1938-03-15,F,90000,Bremerton,Washington,"United States",13.09
+Sydney,Garcia,1938-03-15,F,90000,Bremerton,Washington,"United States",1.8663
+Sydney,Garcia,1938-03-15,F,90000,Bremerton,Washington,"United States",0.8565
+Sydney,Garcia,1938-03-15,F,90000,Bremerton,Washington,"United States",0.8565
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",2171.2942
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",1251.9813
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",1.8663
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",13.09
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",0.8565
+Jose,Patterson,1938-06-20,M,120000,"Daly City",California,"United States",59.466
+Zachary,Anderson,1939-05-14,M,90000,Glendale,California,"United States",2171.2942
+Zachary,Anderson,1939-05-14,M,90000,Glendale,California,"United States",1251.9813
+Zachary,Anderson,1939-05-14,M,90000,Glendale,California,"United States",8.2205
+Zachary,Anderson,1939-05-14,M,90000,Glendale,California,"United States",38.4923
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",2171.2942
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",1265.6195
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",8.2205
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",3.7363
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",1.8663
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",20.5663
+Elijah,Ross,1939-07-02,M,90000,Seattle,Washington,"United States",41.5723
+Rafael,Xie,1939-06-26,M,130000,"Beverly Hills",California,"United States",2171.2942
+Rafael,Xie,1939-06-26,M,130000,"Beverly Hills",California,"United States",1251.9813
+Rafael,Xie,1939-06-26,M,130000,"Beverly Hills",California,"United States",1.8663
+Rafael,Xie,1939-06-26,M,130000,"Beverly Hills",California,"United States",13.09
+Rafael,Xie,1939-06-26,M,130000,"Beverly Hills",California,"United States",13.0863
+Jaime,Moreno,1940-03-04,M,90000,Burbank,California,"United States",2171.2942
+Jaime,Moreno,1940-03-04,M,90000,Burbank,California,"United States",1251.9813
+Jaime,Moreno,1940-03-04,M,90000,Burbank,California,"United States",13.09
+Jaime,Moreno,1940-03-04,M,90000,Burbank,California,"United States",1.8663
+Jaime,Moreno,1940-03-04,M,90000,Burbank,California,"United States",0.8565
+Andy,Alvarez,1940-07-25,M,90000,Concord,California,"United States",2171.2942
+Andy,Alvarez,1940-07-25,M,90000,Concord,California,"United States",1265.6195
+Deanna,Ramos,1962-10-04,F,10000,Berlin,Nordrhein-Westfalen,Germany,1912.1544
+Deanna,Ramos,1962-10-04,F,10000,Berlin,Nordrhein-Westfalen,Germany,1265.6195
+Deanna,Ramos,1962-10-04,F,10000,Berlin,Nordrhein-Westfalen,Germany,13.0863
+Carla,Raman,1961-06-24,F,10000,Hof,Bayern,Germany,1912.1544
+Carla,Raman,1961-06-24,F,10000,Hof,Bayern,Germany,1265.6195
+Carla,Raman,1961-06-24,F,10000,Hof,Bayern,Germany,8.2205
+Carla,Raman,1961-06-24,F,10000,Hof,Bayern,Germany,0.8565
+Shaun,Raji,1962-03-12,M,20000,Paris,"Seine (Paris)",France,1117.8559
+Shaun,Raji,1962-03-12,M,20000,Paris,"Seine (Paris)",France,1265.6195
+Shaun,Raji,1962-03-12,M,20000,Paris,"Seine (Paris)",France,3.7363
+Shaun,Raji,1962-03-12,M,20000,Paris,"Seine (Paris)",France,1.8663
+Shaun,Raji,1962-03-12,M,20000,Paris,"Seine (Paris)",France,13.0863
+Frank,Navarro,1961-08-10,M,20000,Bonn,Nordrhein-Westfalen,Germany,1898.0944
+Frank,Navarro,1961-08-10,M,20000,Bonn,Nordrhein-Westfalen,Germany,1265.6195
+Frank,Navarro,1961-08-10,M,20000,Bonn,Nordrhein-Westfalen,Germany,3.7363
+Frank,Navarro,1961-08-10,M,20000,Bonn,Nordrhein-Westfalen,Germany,1.8663
+Frank,Navarro,1961-08-10,M,20000,Bonn,Nordrhein-Westfalen,Germany,13.0863
+Dennis,She,1961-07-08,M,20000,Paris,"Seine (Paris)",France,1105.81
+Dennis,She,1961-07-08,M,20000,Paris,"Seine (Paris)",France,1251.9813
+Dennis,She,1961-07-08,M,20000,Paris,"Seine (Paris)",France,13.0863
+Melody,Munoz,1936-04-06,F,10000,Paris,"Seine (Paris)",France,1105.81
+Melody,Munoz,1936-04-06,F,10000,Paris,"Seine (Paris)",France,1251.9813
+Melody,Munoz,1936-04-06,F,10000,Paris,"Seine (Paris)",France,3.7363
+Melody,Munoz,1936-04-06,F,10000,Paris,"Seine (Paris)",France,1.8663
+Melody,Munoz,1936-04-06,F,10000,Paris,"Seine (Paris)",France,41.5723
+Marshall,Wang,1962-03-11,M,30000,Boulogne-sur-Mer,"Pas de Calais",France,1.8663
+Marshall,Wang,1962-03-11,M,30000,Boulogne-sur-Mer,"Pas de Calais",France,3.3623
+Marshall,Wang,1962-03-11,M,30000,Boulogne-sur-Mer,"Pas de Calais",France,13.0863
+Robin,Ramos,1957-03-12,F,10000,Tremblay-en-France,"Seine Saint Denis",France,1105.81
+Robin,Ramos,1957-03-12,F,10000,Tremblay-en-France,"Seine Saint Denis",France,1265.6195
+Robin,Ramos,1957-03-12,F,10000,Tremblay-en-France,"Seine Saint Denis",France,13.09
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,1105.81
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,1265.6195
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,1.8663
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,13.09
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,13.0863
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,38.4923
+Deanna,Gutierrez,1955-05-22,F,10000,Paris,"Seine (Paris)",France,3.3623
+Roy,Navarro,1955-12-23,M,10000,Braunschweig,Nordrhein-Westfalen,Germany,3.3623
+Roy,Navarro,1955-12-23,M,10000,Braunschweig,Nordrhein-Westfalen,Germany,1.8663
+Shawn,Rai,1955-09-22,M,10000,Paderborn,Hamburg,Germany,1.8663
+Shawn,Rai,1955-09-22,M,10000,Paderborn,Hamburg,Germany,3.3623
+Shawn,Rai,1955-09-22,M,10000,Paderborn,Hamburg,Germany,41.5723
+Mindy,Luo,1954-09-03,F,10000,Mόnchen,Hessen,Germany,1.8663
+Mindy,Luo,1954-09-03,F,10000,Mόnchen,Hessen,Germany,3.3623
+Mindy,Luo,1954-09-03,F,10000,Mόnchen,Hessen,Germany,41.5723
+Raymond,Rodriguez,1940-03-07,M,10000,Pantin,"Seine Saint Denis",France,3.3623
+Raymond,Rodriguez,1940-03-07,M,10000,Pantin,"Seine Saint Denis",France,1.8663
+Deanna,Suarez,1942-02-23,F,20000,Grevenbroich,Bayern,Germany,1.8663
+Deanna,Suarez,1942-02-23,F,20000,Grevenbroich,Bayern,Germany,6.9223
+Deanna,Suarez,1942-02-23,F,20000,Grevenbroich,Bayern,Germany,3.3623
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,1898.0944
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,419.7784
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,26.1763
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,23.749
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,461.4448
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,1.8663
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,3.3623
+Terrence,Carson,1980-05-27,M,10000,"Lavender Bay","New South Wales",Australia,13.0863
+Ramon,Ye,1979-03-23,M,10000,Caloundra,Queensland,Australia,1898.0944
+Ramon,Ye,1979-03-23,M,10000,Caloundra,Queensland,Australia,419.7784
+Ramon,Ye,1979-03-23,M,10000,Caloundra,Queensland,Australia,8.2205
+Ramon,Ye,1979-03-23,M,10000,Caloundra,Queensland,Australia,13.0863
+Ramon,Ye,1979-03-23,M,10000,Caloundra,Queensland,Australia,461.4448
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,1898.0944
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,419.7784
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,6.9223
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,26.1763
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,461.4448
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,1.8663
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,3.3623
+Cynthia,Malhotra,1978-11-11,F,10000,"Coffs Harbour","New South Wales",Australia,20.5663
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,1898.0944
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,419.7784
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,8.2205
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,13.0863
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,461.4448
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,3.3623
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,1.8663
+Jarrod,Prasad,1978-09-04,M,10000,Malabar,"New South Wales",Australia,0.8565
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,1912.1544
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,419.7784
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,6.9223
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,26.1763
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,461.4448
+Tyrone,Serrano,1978-08-02,M,10000,Rockhampton,Queensland,Australia,13.0863
+Cindy,Ramos,1977-04-28,F,10000,Newcastle,"New South Wales",Australia,9.3463
+Cindy,Ramos,1977-04-28,F,10000,Newcastle,"New South Wales",Australia,1.8663
+Cindy,Ramos,1977-04-28,F,10000,Newcastle,"New South Wales",Australia,13.0863
+Cindy,Ramos,1977-04-28,F,10000,Newcastle,"New South Wales",Australia,38.4923
+Damien,Shan,1977-11-11,M,10000,Cranbourne,Victoria,Australia,9.3463
+Damien,Shan,1977-11-11,M,10000,Cranbourne,Victoria,Australia,0.8565
+Damien,Shan,1977-11-11,M,10000,Cranbourne,Victoria,Australia,38.4923
+Julian,Ross,1977-10-20,M,10000,Melbourne,Victoria,Australia,1912.1544
+Julian,Ross,1977-10-20,M,10000,Melbourne,Victoria,Australia,419.7784
+Julian,Ross,1977-10-20,M,10000,Melbourne,Victoria,Australia,26.1763
+Julian,Ross,1977-10-20,M,10000,Melbourne,Victoria,Australia,41.5723
+Julian,Ross,1977-10-20,M,10000,Melbourne,Victoria,Australia,461.4448
+Jennifer,Collins,1979-09-23,F,10000,Geelong,Victoria,Australia,1898.0944
+Jennifer,Collins,1979-09-23,F,10000,Geelong,Victoria,Australia,419.7784
+Jennifer,Collins,1979-09-23,F,10000,Geelong,Victoria,Australia,13.0863
+Jennifer,Collins,1979-09-23,F,10000,Geelong,Victoria,Australia,461.4448
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,1898.0944
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,419.7784
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,26.1763
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,41.5723
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,461.4448
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,1.8663
+Brittney,Sun,1979-06-09,F,10000,Findon,"South Australia",Australia,3.3623
+Virginia,Patel,1979-10-25,F,20000,Seaford,Victoria,Australia,38.4923
+Virginia,Patel,1979-10-25,F,20000,Seaford,Victoria,Australia,9.3463
+Virginia,Patel,1979-10-25,F,20000,Seaford,Victoria,Australia,0.8565
+Calvin,Nara,1979-02-22,M,20000,"North Sydney","New South Wales",Australia,38.4923
+Calvin,Nara,1979-02-22,M,20000,"North Sydney","New South Wales",Australia,3.3623
+Calvin,Nara,1979-02-22,M,20000,"North Sydney","New South Wales",Australia,9.3463
+Calvin,Nara,1979-02-22,M,20000,"North Sydney","New South Wales",Australia,0.8565
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,1898.0944
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,419.7784
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,1.8663
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,11.2163
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,8.2205
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,41.5723
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,461.4448
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,10.8423
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,1.8663
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,38.4923
+Edward,Miller,1978-11-25,M,10000,Rockhampton,Queensland,Australia,9.1593
+Ashlee,Tang,1978-08-04,F,20000,Findon,"South Australia",Australia,6.9223
+Ashlee,Tang,1978-08-04,F,20000,Findon,"South Australia",Australia,38.4923
+Ashlee,Tang,1978-08-04,F,20000,Findon,"South Australia",Australia,9.3463
+Ashlee,Tang,1978-08-04,F,20000,Findon,"South Australia",Australia,13.0863
+Alicia,Xu,1978-04-01,F,20000,"South Melbourne",Victoria,Australia,9.3463
+Alicia,Xu,1978-04-01,F,20000,"South Melbourne",Victoria,Australia,1.8663
+Alicia,Xu,1978-04-01,F,20000,"South Melbourne",Victoria,Australia,38.4923
+Lacey,Jai,1978-05-27,F,20000,Rockhampton,Queensland,Australia,38.4923
+Lacey,Jai,1978-05-27,F,20000,Rockhampton,Queensland,Australia,9.3463
+Wendy,Romero,1978-05-15,F,20000,Brisbane,Queensland,Australia,1898.0944
+Wendy,Romero,1978-05-15,F,20000,Brisbane,Queensland,Australia,419.7784
+Wendy,Romero,1978-05-15,F,20000,Brisbane,Queensland,Australia,26.1763
+Wendy,Romero,1978-05-15,F,20000,Brisbane,Queensland,Australia,461.4448
+Wendy,Romero,1978-05-15,F,20000,Brisbane,Queensland,Australia,3.3623
+Carly,Luo,1943-09-20,F,30000,Salzgitter,Hessen,Germany,3.3623
+Carly,Luo,1943-09-20,F,30000,Salzgitter,Hessen,Germany,1.8663
+Carly,Luo,1943-09-20,F,30000,Salzgitter,Hessen,Germany,9.1593
+Jimmy,Ortega,1943-06-28,M,30000,Werne,Nordrhein-Westfalen,Germany,1.8663
+Jimmy,Ortega,1943-06-28,M,30000,Werne,Nordrhein-Westfalen,Germany,10.8423
+Jimmy,Ortega,1943-06-28,M,30000,Werne,Nordrhein-Westfalen,Germany,13.0863
+David,Robinett,1961-02-23,M,30000,Solingen,Nordrhein-Westfalen,Germany,1.8663
+David,Robinett,1961-02-23,M,30000,Solingen,Nordrhein-Westfalen,Germany,10.8423
+David,Robinett,1961-02-23,M,30000,Solingen,Nordrhein-Westfalen,Germany,38.4923
+Shannon,Liang,1960-05-22,F,10000,Metz,Moselle,France,1117.8559
+Shannon,Liang,1960-05-22,F,10000,Metz,Moselle,France,1265.6195
+Shannon,Liang,1960-05-22,F,10000,Metz,Moselle,France,3.7363
+Shannon,Liang,1960-05-22,F,10000,Metz,Moselle,France,13.0863
+Gary,Vazquez,1959-11-18,M,10000,Boulogne-Billancourt,"Hauts de Seine",France,1105.81
+Gary,Vazquez,1959-11-18,M,10000,Boulogne-Billancourt,"Hauts de Seine",France,1265.6195
+Gary,Vazquez,1959-11-18,M,10000,Boulogne-Billancourt,"Hauts de Seine",France,8.2205
+Gary,Vazquez,1959-11-18,M,10000,Boulogne-Billancourt,"Hauts de Seine",France,13.0863
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,1912.1544
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,1251.9813
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,3.7363
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,1.8663
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,2.9733
+Mitchell,Kumar,1959-03-02,M,20000,Saarlouis,Saarland,Germany,44.88
+Edward,Patterson,1958-01-19,M,20000,Roubaix,Nord,France,1105.81
+Edward,Patterson,1958-01-19,M,20000,Roubaix,Nord,France,1251.9813
+Marie,Gill,1960-08-28,F,30000,"Roissy en Brie","Seine et Marne",France,1.8663
+Marie,Gill,1960-08-28,F,30000,"Roissy en Brie","Seine et Marne",France,3.3623
+Marie,Gill,1960-08-28,F,30000,"Roissy en Brie","Seine et Marne",France,13.0863
+Tiffany,Wang,1960-10-16,F,30000,"Les Ulis",Essonne,France,3.3623
+Tiffany,Wang,1960-10-16,F,30000,"Les Ulis",Essonne,France,1.8663
+Tiffany,Wang,1960-10-16,F,30000,"Les Ulis",Essonne,France,13.0863
+Jaclyn,Cai,1960-11-05,F,30000,Darmstadt,Hessen,Germany,10.8423
+Jaclyn,Cai,1960-11-05,F,30000,Darmstadt,Hessen,Germany,1.8663
+Jaclyn,Cai,1960-11-05,F,30000,Darmstadt,Hessen,Germany,13.0863
+Karl,Shan,1970-04-24,M,10000,Duesseldorf,Hessen,Germany,10.8423
+Karl,Shan,1970-04-24,M,10000,Duesseldorf,Hessen,Germany,1.8663
+Karl,Shan,1970-04-24,M,10000,Duesseldorf,Hessen,Germany,13.0863
+Christine,Raji,1970-10-19,F,10000,"Saint Germain en Laye",Yveline,France,3.3623
+Christine,Raji,1970-10-19,F,10000,"Saint Germain en Laye",Yveline,France,1.8663
+Christine,Raji,1970-10-19,F,10000,"Saint Germain en Laye",Yveline,France,13.0863
+Lindsay,Xie,1970-12-27,F,10000,Salzgitter,Hessen,Germany,10.8423
+Lindsay,Xie,1970-12-27,F,10000,Salzgitter,Hessen,Germany,1.8663
+Willie,Zhao,1970-02-07,M,10000,Frankfurt,Hessen,Germany,10.8423
+Kurt,Pal,1969-01-17,M,10000,"Saint Ouen","Loir et Cher",France,1.8663
+Kurt,Pal,1969-01-17,M,10000,"Saint Ouen","Loir et Cher",France,3.3623
+Beth,Gutierrez,1970-10-18,F,30000,Frankfurt,Bayern,Germany,1912.1544
+Beth,Gutierrez,1970-10-18,F,30000,Frankfurt,Bayern,Germany,1265.6195
+Beth,Gutierrez,1970-10-18,F,30000,Frankfurt,Bayern,Germany,3.7363
+Ian,Lopez,1969-10-05,M,10000,Saarlouis,Saarland,Germany,10.8423
+Latoya,Shan,1969-06-04,F,20000,Paris,"Seine (Paris)",France,3.3623
+Latoya,Shan,1969-06-04,F,20000,Paris,"Seine (Paris)",France,1.8663
+Latoya,Shan,1969-06-04,F,20000,Paris,"Seine (Paris)",France,9.1593
+Brenda,Mehta,1969-08-04,F,30000,Paris,"Seine (Paris)",France,3.3623
+Brenda,Mehta,1969-08-04,F,30000,Paris,"Seine (Paris)",France,1.8663
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,1117.8559
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,1251.9813
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,20.5663
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,9.1593
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,343.6496
+Linda,Navarro,1969-08-26,F,40000,Paris,"Seine (Paris)",France,13.0863
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,1117.8559
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,1265.6195
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,1.8663
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,3.7363
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,20.5663
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,6.9223
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,343.6496
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,1.8663
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,3.3623
+Kelli,Cai,1969-11-20,F,40000,Orleans,Loiret,France,13.0863
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,1117.8559
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,1265.6195
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,3.7363
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,1.8663
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,6.9223
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,41.5723
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,343.6496
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,8.0373
+Nancy,Schmidt,1969-01-09,F,40000,"Saint Ouen",Charente-Maritime,France,0.8565
+Megan,Taylor,1952-01-01,F,10000,Kassel,Hessen,Germany,10.8423
+Megan,Taylor,1952-01-01,F,10000,Kassel,Hessen,Germany,1.8663
+Bonnie,Goel,1952-02-17,F,10000,Bonn,Hamburg,Germany,41.5723
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,1105.81
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,1265.6195
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,8.2205
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,3.7363
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,1.8663
+Latoya,Xu,1952-07-03,F,20000,Paris,"Seine (Paris)",France,6.9223
+Mario,She,1952-04-02,M,20000,Mόnster,Saarland,Germany,41.5723
+Jacqueline,Hayes,1968-03-05,F,10000,"Saint Germain en Laye",Yveline,France,1105.81
+Jacqueline,Hayes,1968-03-05,F,10000,"Saint Germain en Laye",Yveline,France,1265.6195
+Jacqueline,Hayes,1968-03-05,F,10000,"Saint Germain en Laye",Yveline,France,1.8663
+Jacqueline,Hayes,1968-03-05,F,10000,"Saint Germain en Laye",Yveline,France,13.09
+Jacqueline,Hayes,1968-03-05,F,10000,"Saint Germain en Laye",Yveline,France,13.0863
+Maurice,Goel,1968-08-25,M,20000,Paris,"Seine (Paris)",France,1105.81
+Maurice,Goel,1968-08-25,M,20000,Paris,"Seine (Paris)",France,1251.9813
+Maurice,Goel,1968-08-25,M,20000,Paris,"Seine (Paris)",France,13.09
+Maurice,Goel,1968-08-25,M,20000,Paris,"Seine (Paris)",France,13.0863
+Maurice,Goel,1968-08-25,M,20000,Paris,"Seine (Paris)",France,38.4923
+Devin,Ross,1954-02-12,M,80000,Ingolstadt,Bayern,Germany,1.8663
+Devin,Ross,1954-02-12,M,80000,Ingolstadt,Bayern,Germany,3.3623
+Devin,Ross,1954-02-12,M,80000,Ingolstadt,Bayern,Germany,9.1593
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,1898.0944
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,1251.9813
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,8.2205
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,3.7363
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,1.8663
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,13.0863
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,1082.51
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,13.0863
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,6.9223
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,1481.9379
+Sydney,Bryant,1954-04-09,F,80000,Ingolstadt,Bayern,Germany,6.9223
+Randy,She,1944-06-05,M,90000,Darmstadt,Hessen,Germany,1.8663
+Randy,She,1944-06-05,M,90000,Darmstadt,Hessen,Germany,3.3623
+Katrina,Becker,1945-03-19,F,60000,Croix,Nord,France,1105.81
+Katrina,Becker,1945-03-19,F,60000,Croix,Nord,France,1251.9813
+Katrina,Becker,1945-03-19,F,60000,Croix,Nord,France,13.0863
+Katrina,Becker,1945-03-19,F,60000,Croix,Nord,France,343.6496
+Katrina,Becker,1945-03-19,F,60000,Croix,Nord,France,3.3623
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,1105.81
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,1265.6195
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,8.2205
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,44.88
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,294.5797
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,3.7363
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,13.0863
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,6.9223
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,343.6496
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,3.3623
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,1481.9379
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,13.0863
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,461.4448
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,1.8663
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,3.3623
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,1481.9379
+Lacey,Zheng,1945-02-26,F,70000,Pantin,"Seine Saint Denis",France,13.0863
+Rafael,Hu,1945-02-09,M,90000,Paderborn,Nordrhein-Westfalen,Germany,1.8663
+Rafael,Hu,1945-02-09,M,90000,Paderborn,Nordrhein-Westfalen,Germany,13.0863
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1117.8559
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1265.6195
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,8.2205
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,13.0863
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,294.5797
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1481.9379
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,3.3623
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1.8663
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,13.0863
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,343.6496
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,461.4448
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,13.0863
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1481.9379
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,10.8423
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,1.8663
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,6.9223
+Jordan,Turner,1946-07-12,M,100000,Roubaix,Nord,France,13.0863
+Amy,Sun,1946-07-19,F,110000,Offenbach,Saarland,Germany,1912.1544
+Amy,Sun,1946-07-19,F,110000,Offenbach,Saarland,Germany,1251.9813
+Amy,Sun,1946-07-19,F,110000,Offenbach,Saarland,Germany,1082.51
+Amy,Sun,1946-07-19,F,110000,Offenbach,Saarland,Germany,1481.9379
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,1898.0944
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,1251.9813
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,8.2205
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,1082.51
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,9.3463
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,1.4923
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,20.5663
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,13.0863
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,1481.9379
+Jasmine,Stewart,1954-11-05,F,80000,Hamburg,Hamburg,Germany,6.9223
+Pamela,Garcia,1953-12-07,F,80000,Berlin,Saarland,Germany,13.0863
+Pamela,Garcia,1953-12-07,F,80000,Berlin,Saarland,Germany,6.9223
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,1105.81
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,1265.6195
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,13.09
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,1.8663
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,8.2205
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,44.88
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,294.5797
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,13.0863
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,1481.9379
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,10.8423
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,343.6496
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,6.9223
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,8.0373
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,1481.9379
+Ariana,Gray,1954-08-06,F,90000,Metz,Moselle,France,13.0863
+Kristopher,Mehta,1953-10-02,M,110000,Braunschweig,Nordrhein-Westfalen,Germany,13.0863
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,1912.1544
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,1265.6195
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,13.0863
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,1082.51
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,6.9223
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,13.0863
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,1481.9379
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,10.8423
+Desiree,Dominguez,1953-12-18,F,110000,Kiel,Saarland,Germany,1.8663
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1912.1544
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1265.6195
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,3.7363
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1.8663
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,13.0863
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,6.9223
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1082.51
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,41.5723
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1481.9379
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,1.8663
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,10.8423
+Deanna,Perez,1953-08-22,F,120000,Poing,Saarland,Germany,0.8565
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1117.8559
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1251.9813
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,13.0863
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1481.9379
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1.8663
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,3.3623
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,13.0863
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,343.6496
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,3.3623
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1.8663
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,13.0863
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,308.2179
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,41.5723
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1481.9379
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,10.8423
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,1.8663
+Marco,Lopez,1952-07-16,M,80000,Sθvres,"Hauts de Seine",France,2.9733
+Casey,Yuan,1952-03-24,F,90000,Bottrop,Nordrhein-Westfalen,Germany,13.0863
+Casey,Yuan,1952-03-24,F,90000,Bottrop,Nordrhein-Westfalen,Germany,38.4923
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1912.1544
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1251.9813
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,13.09
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,13.0863
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1082.51
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1.8663
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,3.3623
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,13.0863
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1481.9379
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,1.8663
+Bryant,Garcia,1952-10-27,M,110000,Hof,Bayern,Germany,3.3623
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,1117.8559
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,1265.6195
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,3.7363
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,755.1508
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,1.8663
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,10.8423
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,13.0863
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,1481.9379
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,13.0863
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,38.4923
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,343.6496
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,3.3623
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,1.8663
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,308.2179
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,8.2205
+Dominique,Prasad,1951-09-11,F,80000,"Roissy en Brie","Seine et Marne",France,13.0863
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1105.81
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1554.9479
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1481.9379
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,3.3623
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1.8663
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,13.0863
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,6.9223
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1265.6195
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,0.8565
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,755.1508
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,41.5723
+Maurice,Shan,1951-09-02,M,80000,Tremblay-en-France,"Seine Saint Denis",France,1481.9379
+Robin,Romero,1950-03-06,F,100000,Kiel,Saarland,Germany,13.0863
+Alfredo,Moreno,1949-12-17,M,90000,Villeneuve-d'Ascq,Nord,France,41.5723
+Jenny,Nara,1949-10-14,F,130000,Werne,Nordrhein-Westfalen,Germany,13.0863
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1117.8559
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1554.9479
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,3.3623
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1.8663
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1481.9379
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,13.0863
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,461.4448
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,13.0863
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1251.9813
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1.8663
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,3.7363
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,13.0863
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,1481.9379
+Janet,Munoz,1948-05-17,F,90000,"Paris La Defense","Hauts de Seine",France,13.0863
+Sergio,Weber,1947-09-27,M,80000,Lille,Nord,France,41.5723
+Sergio,Weber,1947-09-27,M,80000,Lille,Nord,France,9.1593
+Erika,Gomez,1947-06-12,F,90000,Paris,"Seine (Paris)",France,6.9223
+Erika,Gomez,1947-06-12,F,90000,Paris,"Seine (Paris)",France,13.0863
+Joseph,Harris,1947-11-14,M,90000,Tremblay-en-France,"Seine Saint Denis",France,13.0863
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,1898.0944
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,1251.9813
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,13.09
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,8.2205
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,13.0863
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,41.5723
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,1481.9379
+Grace,Griffin,1976-05-22,F,60000,Hobart,Tasmania,Australia,13.0863
+Tina,Mehta,1976-04-28,F,70000,Bendigo,Victoria,Australia,1898.0944
+Tina,Mehta,1976-04-28,F,70000,Bendigo,Victoria,Australia,1265.6195
+Tina,Mehta,1976-04-28,F,70000,Bendigo,Victoria,Australia,8.2205
+Tina,Mehta,1976-04-28,F,70000,Bendigo,Victoria,Australia,13.0863
+Tina,Mehta,1976-04-28,F,70000,Bendigo,Victoria,Australia,1481.9379
+Kari,Kim,1974-07-21,F,70000,Silverwater,"New South Wales",Australia,1912.1544
+Kari,Kim,1974-07-21,F,70000,Silverwater,"New South Wales",Australia,1251.9813
+Kari,Kim,1974-07-21,F,70000,Silverwater,"New South Wales",Australia,3.7363
+Kari,Kim,1974-07-21,F,70000,Silverwater,"New South Wales",Australia,1481.9379
+Kari,Kim,1974-07-21,F,70000,Silverwater,"New South Wales",Australia,3.3623
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,1912.1544
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,1265.6195
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,13.0863
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,1481.9379
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,13.0863
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,41.5723
+Bethany,Chander,1974-08-12,F,70000,"Lane Cove","New South Wales",Australia,6.9223
+Jennifer,Roberts,1974-08-16,F,70000,"Hervey Bay",Queensland,Australia,1898.0944
+Jennifer,Roberts,1974-08-16,F,70000,"Hervey Bay",Queensland,Australia,1251.9813
